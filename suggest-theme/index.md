@@ -3,6 +3,11 @@ layout: page
 title : Suggérer un thème
 ---
 
-## Suggérer un thème
-Une question, un besoin, une suggestion de thématique ? 
-Inscrivez-vous à la mailing liste d’information, entraide et diffusion : use-r-carlvogt@listes.unige.ch
+###  Une suggestion de thématique ? Une question, un besoin ? 
+
+Ecrivez-nous (e-mails [ici](http://use-r-carlvogt.github.io/about/)) ou utilisez la **liste d’information, entraide et diffusion [use-r-carlvogt](http://listes.unige.ch/sympa/info/use-r-carlvogt)**
+
+
+
+
+
