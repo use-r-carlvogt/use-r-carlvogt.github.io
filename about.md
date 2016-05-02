@@ -15,5 +15,6 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 **Où ?** Bâtiment Carl Vogt - Salle 1, rez-de-chaussée
 
 Organisation : 
+
 * Elise Tancoigne (collaboratrice Unige, Elise.Tancoigne@unige.ch) 
 * Dorothea Hug Peter (collaboratrice Unige, Dorothea.HugPeter@unige.ch)
