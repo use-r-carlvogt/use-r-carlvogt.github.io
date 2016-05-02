@@ -18,3 +18,7 @@ Organisation :
 
 * Elise Tancoigne (collaboratrice Unige, Elise.Tancoigne@unige.ch) 
 * Dorothea Hug Peter (collaboratrice Unige, Dorothea.HugPeter@unige.ch)
+
+Mailing-list :
+
+* [use-r-carlvogt](http://listes.unige.ch/sympa/info/use-r-carlvogt)
