@@ -3,7 +3,7 @@ layout: page
 title: Débuter avec R
 ---
 
-![](http://www.phdcomics.com/comics/archive/phd113007s.gif)
+![](http://www.phdcomics.com/comics/archive/phd042800s.gif)
 
 ### Blogs / forums
 Groupe des utilisateurs du logiciel R 
