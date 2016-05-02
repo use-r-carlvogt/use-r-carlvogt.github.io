@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Agenda
 ---
 ![](http://www.phdcomics.com/comics/archive/phd112107s.gif)
