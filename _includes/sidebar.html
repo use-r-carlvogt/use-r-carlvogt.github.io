@@ -27,8 +27,12 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Prochains lunchs</a>
 
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      {% comment %}            
+        <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      {% endcomment %}
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
