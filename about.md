@@ -14,11 +14,11 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 
 **Où ?** Bâtiment Carl Vogt - Salle 1, rez-de-chaussée
 
-Organisation : 
+**Organisation : **
 
 * Elise Tancoigne (collaboratrice Unige, Elise.Tancoigne@unige.ch) 
 * Dorothea Hug Peter (collaboratrice Unige, Dorothea.HugPeter@unige.ch)
 
-Mailing-list :
+**Mailing-list :**
 
 * [use-r-carlvogt](http://listes.unige.ch/sympa/info/use-r-carlvogt)
