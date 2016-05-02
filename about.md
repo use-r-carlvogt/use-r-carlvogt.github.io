@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-! [](http://www.phdcomics.com/comics/archive/phd113007s.gif)
+![](http://www.phdcomics.com/comics/archive/phd113007s.gif)
 
 Les déjeuners R sont des rencontres mensuelles pluridisciplinaires à destination des chercheurs, doctorants et étudiants souhaitant approfondir leur connaissance de R et de l’analyse de données. 
 Chaque déjeuner consiste en une présentation suivie d’une discussion. Les séances méthodologiques propres à R alterneront avec des séances centrées sur une question d’analyse de données transversale à plusieurs disciplines.
