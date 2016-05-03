@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            R lunches
+title:            R lunchs
 tagline:          'Rencontres pluridisciplinaires autour de R à Carl Vogt'
 description:      'Rencontres pluridisciplinaires autour de R à Carl Vogt'
 url:              
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:         
