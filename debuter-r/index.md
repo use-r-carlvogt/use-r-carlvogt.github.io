@@ -23,5 +23,5 @@ title: Débuter avec R
 
 ### Aides-mémoire
 * [R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf) *- synthèse des commandes de base sous R*
-* [](http://zoonek2.free.fr/UNIX/48_R/03.html) *- R graph gallery - old-style but nevertheless useful*
-* [](http://gastonsanchez.com/blog/) *- R graph gallery* 
+* [http://zoonek2.free.fr/UNIX/48_R/03.html](http://zoonek2.free.fr/UNIX/48_R/03.html) *- R graph gallery - old-style but nevertheless useful*
+* [http://gastonsanchez.com/blog/](http://gastonsanchez.com/blog/) *- R graph gallery* 
