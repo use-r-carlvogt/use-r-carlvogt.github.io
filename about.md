@@ -12,7 +12,7 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 
 **Quand ?** Tous les troisièmes lundis du mois, 12h15-13H30
 
-**Où ?** Bâtiment Carl Vogt - Salle 1, rez-de-chaussée
+**Où ?** [Bâtiment Carl Vogt](http://www.openstreetmap.org/node/3671421729#map=19/46.19730/6.13666) - Salle 1, rez-de-chaussée
 
 **Organisation :**
 
