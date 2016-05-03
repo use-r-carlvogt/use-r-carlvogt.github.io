@@ -3,10 +3,10 @@ layout: page
 title: Prochains déjeuners
 ---
 
-![](http://www.phdcomics.com/comics/archive/phd112107s.gif)
 
-##  Prochains déjeuners
 * **23 mai 2016 :** [Méthodo] Boucles et fonctions (Dorothea Hug Peter)
+
+![](http://www.phdcomics.com/comics/archive/phd112107s.gif)
 
 Déjeuners passés :
 
