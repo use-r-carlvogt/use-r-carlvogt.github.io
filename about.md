@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: C'est quoi ?
 ---
 
 ![](http://www.phdcomics.com/comics/archive/phd113007s.gif)
