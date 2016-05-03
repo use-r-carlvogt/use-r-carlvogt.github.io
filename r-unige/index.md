@@ -1,6 +1,8 @@
 ---
 layout: page
 title: R à l'Unige
+lang: fr
+ref: r-unige
 ---
 
 ### Ressources en ligne
