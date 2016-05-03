@@ -6,6 +6,8 @@ title: Prochains déjeuners
   
   
 * **23 mai 2016 :** [Méthodo] Boucles et fonctions (Dorothea Hug Peter)
+* **20 juin 2016 :** [Analyse] A définir
+
   
   
 
