@@ -5,7 +5,7 @@ title: C'est quoi ?
 
 ![](http://www.phdcomics.com/comics/archive/phd113007s.gif)
 
-Les déjeuners R sont des rencontres mensuelles pluridisciplinaires à destination des chercheurs, doctorants et étudiants souhaitant approfondir leur connaissance de R et de l'analyse de données. L'idée est de partager nos savoir-faire, réaliser un travail de veille, ainsi que de découvrir les approches d'autres disciplines sur des problèmes qui peuvent être communs. L'idée est que chacun présente quelque chose qu'il a découvert ou qu'il souhaiterait approfondir - ces séminaires sont avant tout prétexte à discussion et échange.
+Les déjeuners R sont des rencontres mensuelles pluridisciplinaires à destination des chercheurs, doctorants et étudiants souhaitant approfondir leur connaissance de R et de l'analyse de données. L'idée est de partager nos savoir-faire, réaliser un travail de veille, ainsi que de découvrir les approches d'autres disciplines sur des problèmes qui peuvent être communs. L'occasion que chacun présente quelque chose qu'il a découvert, qu'il souhaiterait approfondir, ou même sur lequel il bute... [tout ce qui fournit discussion et échange est bienvenu](http://use-r-carlvogt.github.io/suggest-theme/) :)
 
 La langue de présentation (français ou anglais) et de discussion sera adaptée à l’audience et au conférencier.
 
