@@ -2,17 +2,12 @@
 layout: page
 title: Prochains déjeuners
 ---
+![](http://www.phdcomics.com/comics/archive/phd112107s.gif)
   
-  
-  
+## Prochains déjeuners
+
 * **23 mai 2016 :** [Méthodo R] Boucles et fonctions (Dorothea Hug Peter)
 * **20 juin 2016 :** [Analyse de données] A définir
-
-  
-  
-
-
-![](http://www.phdcomics.com/comics/archive/phd112107s.gif)
   
   
 
