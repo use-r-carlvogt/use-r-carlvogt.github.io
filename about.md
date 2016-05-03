@@ -20,6 +20,6 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 * Elise Tancoigne (collaboratrice Unige, Elise.Tancoigne@unige.ch) 
 * Dorothea Hug Peter (collaboratrice Unige, Dorothea.HugPeter@unige.ch)
 
-**Mailing-list :**
+**Pour rester informé.e.s :**
 
-* [use-r-carlvogt](http://listes.unige.ch/sympa/info/use-r-carlvogt)
+* Liste [use-r-carlvogt](http://listes.unige.ch/sympa/info/use-r-carlvogt)
