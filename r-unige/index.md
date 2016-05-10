@@ -24,3 +24,6 @@ ref: r-unige
  * [Analyse de données longitudinales](http://wadme.unige.ch:3149/pls/opprg/w_det_cours.debut?p_code_cours=T415012&p_plan_is=0&p_langue=1&p_frame=N&p_mode=PGC&p_annee=2015&p_suffixe=&p_grtri=)
 * Institut des Sciences de l’Environnement 
  * [Maîtrise universitaire en sciences de l'environnement](http://wadme.unige.ch:3149/pls/opprg/w_rech_cours.result_fac?p_langue=1&p_struct=1&p_annee=2015&p_grtri=6806)
+ 
+*Il manque un cours ? Ecrivez-nous pour que nous le rajoutions à la liste !*
+
