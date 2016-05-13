@@ -13,4 +13,4 @@ title: Prochains déjeuners
 
 Déjeuners passés :
 
-* 25 avril 2016 : [Analyse de données] Pearson (1901) ou quelques considérations sur les méthodes d'ordination dans R (Emmanuel Castella) ![Télécharger le PDF](/PDFs/2016Avril_EmmCastella_RCLUB-ordination.pdf)
+* 25 avril 2016 : [Analyse de données] Pearson (1901) ou quelques considérations sur les méthodes d'ordination dans R (Emmanuel Castella) [Télécharger le PDF](/PDFs/2016Avril_EmmCastella_RCLUB-ordination.pdf)
