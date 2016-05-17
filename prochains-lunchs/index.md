@@ -6,7 +6,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **23 mai 2016 :** [Méthodo R] Boucles et fonctions (Dorothea Hug Peter, [LEBA](http://leba.unige.ch/team/dhugpeter/))
+* **23 mai 2016 :** [Méthodo R] Boucles et fonctions (Dorothea Hug Peter, [ISE/Forel](http://leba.unige.ch/team/dhugpeter/))
 * **13 juin 2016 :** [Analyse de données] Modèles mixtes (Marc-Olivier Boldi, [GSEM](https://www.unige.ch/gsem/rcs/members2/profs/marc/)) *(ATTENTION : il s'agit du 2d lundi du mois)*
 * **Reprise au mois de septembre**
   
@@ -14,4 +14,4 @@ title: Prochains déjeuners
 
 Déjeuners passés :
 
-* 25 avril 2016 : [Analyse de données] Pearson (1901) ou quelques considérations sur les méthodes d'ordination dans R (Emmanuel Castella, [LEBA](http://leba.unige.ch/team/ecastella/)) [Télécharger le PDF](/PDFs/2016Avril_EmmCastella_RCLUB-ordination.pdf)
+* 25 avril 2016 : [Analyse de données] Pearson (1901) ou quelques considérations sur les méthodes d'ordination dans R (Emmanuel Castella, [ISE/Forel](http://leba.unige.ch/team/ecastella/)) [Télécharger le PDF](/PDFs/2016Avril_EmmCastella_RCLUB-ordination.pdf)
