@@ -6,7 +6,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **23 mai 2016 :** [Méthodo R] Boucles et fonctions (Dorothea Hug Peter, [ISE/Forel](http://leba.unige.ch/team/dhugpeter/))
+* **23 mai 2016 :** [Méthodo R] Répétitions dans un script: fonctions, boucles et apply (Dorothea Hug Peter, [ISE/Forel](http://leba.unige.ch/team/dhugpeter/))
 * **13 juin 2016 :** [Analyse de données] Modèles mixtes (Marc-Olivier Boldi, [GSEM](https://www.unige.ch/gsem/rcs/members2/profs/marc/)) *(ATTENTION : il s'agit du 2d lundi du mois)*
 * **Reprise au mois de septembre**
   
