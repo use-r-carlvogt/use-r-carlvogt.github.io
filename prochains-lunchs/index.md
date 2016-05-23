@@ -13,5 +13,5 @@ title: Prochains déjeuners
 
 Déjeuners passés :
 
-* 23 mai 2016 : [Méthodo R] Répétitions dans un script: fonctions, boucles et apply (Dorothea Hug Peter, [ISE/Forel](http://leba.unige.ch/team/dhugpeter/)) [Télécharger le PDF](PDFs/2016Mai_DorHugPeter_handout_loops.pdf)
+* 23 mai 2016 : [Méthodo R] Répétitions dans un script: fonctions, boucles et apply (Dorothea Hug Peter, [ISE/Forel](http://leba.unige.ch/team/dhugpeter/)) [Télécharger le PDF](/PDFs/2016Mai_DorHugPeter_handout_loops.pdf)
 * 25 avril 2016 : [Analyse de données] Pearson (1901) ou quelques considérations sur les méthodes d'ordination dans R (Emmanuel Castella, [ISE/Forel](http://leba.unige.ch/team/ecastella/)) [Télécharger le PDF](/PDFs/2016Avril_EmmCastella_RCLUB-ordination.pdf)
