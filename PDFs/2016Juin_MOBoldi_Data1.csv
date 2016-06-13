@@ -1,0 +1,289 @@
+juge,vin,acidité
+J1,chardonnay,4.5
+J1,chasselas,4.6
+J1,johannisberg,7.3
+J1,muller-thurgau,2.6
+J1,petite arvine,4.5
+J1,pinot blanc,3.5
+J10,chardonnay,7
+J10,chasselas,5
+J10,johannisberg,2
+J10,muller-thurgau,3
+J10,petite arvine,4
+J10,pinot blanc,8
+J11,chardonnay,4.1
+J11,chasselas,4.3
+J11,johannisberg,4.2
+J11,muller-thurgau,4
+J11,petite arvine,4
+J11,pinot blanc,4
+J12,chardonnay,5
+J12,chasselas,2
+J12,johannisberg,1.5
+J12,muller-thurgau,5.6
+J12,petite arvine,5.6
+J12,pinot blanc,7
+J13,chardonnay,5
+J13,chasselas,3
+J13,johannisberg,6
+J13,muller-thurgau,6.1
+J13,petite arvine,3
+J13,pinot blanc,7
+J14,chardonnay,6.5
+J14,chasselas,4.5
+J14,johannisberg,3.5
+J14,muller-thurgau,3.5
+J14,petite arvine,7
+J14,pinot blanc,4.5
+J15,chardonnay,4
+J15,chasselas,4
+J15,johannisberg,4
+J15,muller-thurgau,4
+J15,petite arvine,4
+J15,pinot blanc,5
+J16,chardonnay,6
+J16,chasselas,6
+J16,johannisberg,8.4
+J16,muller-thurgau,5
+J16,petite arvine,7.1
+J16,pinot blanc,7.5
+J17,chardonnay,6
+J17,chasselas,1
+J17,johannisberg,1
+J17,muller-thurgau,4
+J17,petite arvine,1
+J17,pinot blanc,6
+J18,chardonnay,4.6
+J18,chasselas,3.9
+J18,johannisberg,2.8
+J18,muller-thurgau,4.9
+J18,petite arvine,5.5
+J18,pinot blanc,4.4
+J19,chardonnay,5
+J19,chasselas,3.5
+J19,johannisberg,3
+J19,muller-thurgau,5
+J19,petite arvine,4
+J19,pinot blanc,5
+J2,chardonnay,6
+J2,chasselas,4
+J2,johannisberg,2
+J2,muller-thurgau,7
+J2,petite arvine,6
+J2,pinot blanc,7
+J20,chardonnay,2
+J20,chasselas,0
+J20,johannisberg,1
+J20,muller-thurgau,0
+J20,petite arvine,7
+J20,pinot blanc,0
+J21,chardonnay,5.1
+J21,chasselas,4
+J21,johannisberg,3
+J21,muller-thurgau,4
+J21,petite arvine,4
+J21,pinot blanc,3
+J22,chardonnay,4.4
+J22,chasselas,4
+J22,johannisberg,3
+J22,muller-thurgau,4.4
+J22,petite arvine,4.7
+J22,pinot blanc,8.1
+J23,chardonnay,5
+J23,chasselas,2
+J23,johannisberg,3
+J23,muller-thurgau,4
+J23,petite arvine,3
+J23,pinot blanc,5
+J24,chardonnay,9
+J24,chasselas,6.1
+J24,johannisberg,4.1
+J24,muller-thurgau,6.1
+J24,petite arvine,8
+J24,pinot blanc,8
+J3,chardonnay,1.7
+J3,chasselas,2.4
+J3,johannisberg,1.5
+J3,muller-thurgau,3.2
+J3,petite arvine,7.4
+J3,pinot blanc,6.5
+J4,chardonnay,6.9
+J4,chasselas,2.4
+J4,johannisberg,3
+J4,muller-thurgau,5
+J4,petite arvine,4.5
+J4,pinot blanc,4.1
+J5,chardonnay,2
+J5,chasselas,1
+J5,johannisberg,2
+J5,muller-thurgau,4
+J5,petite arvine,2
+J5,pinot blanc,4
+J6,chardonnay,7.1
+J6,chasselas,5
+J6,johannisberg,4
+J6,muller-thurgau,6
+J6,petite arvine,5
+J6,pinot blanc,9
+J7,chardonnay,8.6
+J7,chasselas,7.8
+J7,johannisberg,3.4
+J7,muller-thurgau,6.3
+J7,petite arvine,6.3
+J7,pinot blanc,6.3
+J8,chardonnay,6.9
+J8,chasselas,2.8
+J8,johannisberg,7.8
+J8,muller-thurgau,4.9
+J8,petite arvine,3.7
+J8,pinot blanc,4.5
+J9,chardonnay,5
+J9,chasselas,4
+J9,johannisberg,3
+J9,muller-thurgau,5
+J9,petite arvine,5.1
+J9,pinot blanc,6
+J25,chardonnay,3.8
+J25,chasselas,4
+J25,johannisberg,5.1
+J25,muller-thurgau,6.1
+J25,petite arvine,3
+J25,pinot blanc,6
+J26,chardonnay,4.1
+J26,chasselas,5
+J26,johannisberg,2
+J26,muller-thurgau,6.2
+J26,petite arvine,5.1
+J26,pinot blanc,8.1
+J27,chardonnay,10
+J27,chasselas,7.4
+J27,johannisberg,7.6
+J27,muller-thurgau,5
+J27,petite arvine,4.6
+J27,pinot blanc,3.5
+J28,chardonnay,5
+J28,chasselas,3
+J28,johannisberg,4.1
+J28,muller-thurgau,5.5
+J28,petite arvine,6
+J28,pinot blanc,5
+J29,chardonnay,7
+J29,chasselas,3.1
+J29,johannisberg,4
+J29,muller-thurgau,6.1
+J29,petite arvine,6
+J29,pinot blanc,7
+J30,chardonnay,6
+J30,chasselas,1.5
+J30,johannisberg,2
+J30,muller-thurgau,1.4
+J30,petite arvine,3
+J30,pinot blanc,5
+J31,chardonnay,5.1
+J31,chasselas,4
+J31,johannisberg,4
+J31,muller-thurgau,4.9
+J31,petite arvine,5
+J31,pinot blanc,6.1
+J32,chardonnay,7.4
+J32,chasselas,6.1
+J32,johannisberg,7.5
+J32,muller-thurgau,6
+J32,petite arvine,8
+J32,pinot blanc,7
+J33,chardonnay,6
+J33,chasselas,1
+J33,johannisberg,0
+J33,muller-thurgau,6
+J33,petite arvine,3
+J33,pinot blanc,7
+J34,chardonnay,5.4
+J34,chasselas,4.6
+J34,johannisberg,3
+J34,muller-thurgau,6.3
+J34,petite arvine,7.1
+J34,pinot blanc,5.6
+J35,chardonnay,2
+J35,chasselas,5
+J35,johannisberg,5
+J35,muller-thurgau,5
+J35,petite arvine,5
+J35,pinot blanc,6.1
+J36,chardonnay,5
+J36,chasselas,6.1
+J36,johannisberg,3.9
+J36,muller-thurgau,5.1
+J36,petite arvine,6
+J36,pinot blanc,5.1
+J37,chardonnay,3
+J37,chasselas,4.1
+J37,johannisberg,1
+J37,muller-thurgau,4.1
+J37,petite arvine,0
+J37,pinot blanc,5
+J38,chardonnay,4
+J38,chasselas,5
+J38,johannisberg,4
+J38,muller-thurgau,3.9
+J38,petite arvine,5
+J38,pinot blanc,6
+J39,chardonnay,5.4
+J39,chasselas,3.7
+J39,johannisberg,4.3
+J39,muller-thurgau,4.8
+J39,petite arvine,3.1
+J39,pinot blanc,3.7
+J40,chardonnay,6
+J40,chasselas,5
+J40,johannisberg,2
+J40,muller-thurgau,6
+J40,petite arvine,5
+J40,pinot blanc,7
+J41,chardonnay,0
+J41,chasselas,0
+J41,johannisberg,0
+J41,muller-thurgau,0
+J41,petite arvine,1.8
+J41,pinot blanc,0
+J42,chardonnay,6.5
+J42,chasselas,0.7
+J42,johannisberg,1.5
+J42,muller-thurgau,0.9
+J42,petite arvine,4.3
+J42,pinot blanc,1.3
+J43,chardonnay,5.6
+J43,chasselas,4
+J43,johannisberg,4
+J43,muller-thurgau,4
+J43,petite arvine,4.5
+J43,pinot blanc,5.5
+J44,chardonnay,4.9
+J44,chasselas,2
+J44,johannisberg,2
+J44,muller-thurgau,3
+J44,petite arvine,5.1
+J44,pinot blanc,4
+J45,chardonnay,6
+J45,chasselas,6
+J45,johannisberg,6
+J45,muller-thurgau,5
+J45,petite arvine,8
+J45,pinot blanc,5
+J46,chardonnay,7.3
+J46,chasselas,4.6
+J46,johannisberg,3.7
+J46,muller-thurgau,5.4
+J46,petite arvine,3.5
+J46,pinot blanc,5.6
+J47,chardonnay,7.2
+J47,chasselas,2.1
+J47,johannisberg,1.8
+J47,muller-thurgau,4.7
+J47,petite arvine,2.9
+J47,pinot blanc,7.9
+J48,chardonnay,6
+J48,chasselas,3.4
+J48,johannisberg,3
+J48,muller-thurgau,6
+J48,petite arvine,4.9
+J48,pinot blanc,5
