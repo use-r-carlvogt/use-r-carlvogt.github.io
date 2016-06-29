@@ -21,15 +21,16 @@ title: Débuter avec R
 
 ### Livres sur R ou les statistiques
 * Emmanuel Paradis, 2005. [R pour les débutants (PDF)](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_fr.pdf) *- un guide pour débuter simplement avec R*
-* Gaël Millot, 2014. [Comprendre et réaliser les tests statistiques à l’aide de R](https://perso.curie.fr/Gael.Millot/Publications_livre.htm), 3ème édition, Editions De Boeck, 806 pages *- tout pour faire des tests statistiques avec R, schéma pp. 259-260 pour choisir un test et la fonction R associée*
+* Gaël Millot, 2014. [Comprendre et réaliser les tests statistiques à l’aide de R](https://perso.curie.fr/Gael.Millot/Publications_livre.htm), 3ème édition, 806 pages *- tout pour faire des tests statistiques avec R, schéma pp. 259-260 pour choisir un test et la fonction R associée*
+* Robert I. Kabacoff, 2015. [R in Action, Data analysis and graphics with R](https://www.manning.com/books/r-in-action-second-edition), 2de édition, 608 pages
 * Angrist Pischke, 2013 [Mostly harmless econometrics: an empiricist’s companion (PDF)](http://egei.vse.cz/english/wp-content/uploads/2012/08/mostly%2Bharmeless%2Beconometrics.pdf)
 * Jeffrey M. Wooldridge, 2009. [Introductory econometrics: a modern approach (PDF)](http://ncbae.yolasite.com/resources/IntroductoryEconometrics_AModernApproach_FourthEdition_Jeffrey_Wooldridge.pdf)
-* Joseph F. Hair et al., 2010. « Multivariate analysis » *- très bon schéma pour décider des méthodes en pp.13-14*
+* Joseph F. Hair et al., 2010. [Multivariate data analysis](http://www.mypearsonstore.com/bookstore/multivariate-data-analysis-9780138132637) *- très bon schéma pour décider des méthodes en pp.13-14*
 
 
 ### Outils pour une prise en main plus facile de R
-* [RStudio](https://www.rstudio.com/) *- l’indispensable interface pour R*
-* [R commander (Rcmdr)](http://rcommander.com/) *- une interface pour des statistiques prêtes à l’emploi*
+* [RStudio](https://www.rstudio.com/) *- l’indispensable interface pour R* - [Tutoriel par Christophe Lalanne & Bruno Falissard](http://www.aliquote.org/cours/misc/mooc/labs.pdf)
+* [R commander (Rcmdr)](http://rcommander.com/) *- une interface pour des statistiques prêtes à l’emploi* - [Tutoriel par Pauline Scherdel](http://docplayer.fr/11099872-Introduction-a-rcommander.html)
 
 ### Aides-mémoire
 * [R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf) *- synthèse des commandes de base sous R*
