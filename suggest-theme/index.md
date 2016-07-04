@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Suggérer un thème
+title : Mailing-list
 ---
 
 ###  Une suggestion de thématique ? Une question, un besoin ? 
