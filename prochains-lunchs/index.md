@@ -6,8 +6,15 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **Reprise le 1er mardi du mois d'octobre**
-  
+* **4 octobre 2016** [Analyse de données] **Ordinations multi-tableaux** ([Emmanuel Castella](http://leba.unige.ch/team/ecastella/), ISE/Forel) - salle B2 
+* **1er novembre 2016** [Analyse de données] **Modèles à équations structurales avec R (package [lavaan](http://lavaan.ugent.be/index.html))** ([Paolo Ghisletta](http://www.unige.ch/fapse/mad/equipe/ghisletta/), Faculté de psychologie et des sciences de l'éducation) - salle B2
+* **6 décembre 2016** [Analyse de données] **Analyse de séquences (package [TraMineR](http://traminer.unige.ch/index.shtml))** ([Matthias - salle B2 Studer](https://www.unige.ch/sciences-societe/ideso/membres/matthias-studer), Institut de Démographie et Socioéconomie) 
+* **10 janvier 2017** *Séance disponible pour un thème* - salle B2
+* **7 février 2017** *Séance disponible pour un thème* - salle B2
+* **7 mars 2017** [Méthodo R] **Création de packages sous R** ([Adrien Remund](https://www.unige.ch/sciences-societe/ideso/membres/remund/), Institut de Démographie et Socioéconomie) - salle B1
+* **4 avril 2017** [Analyse de données] **Régressions robustes sous R** ([Eva Cantoni](https://www.unige.ch/gsem/rcs/members2/profs/eva-cantoni/), GSEM) - salle B1
+* **2 mai 2017** *Séance disponible pour un thème* - salle B1
+* **6 juin 2017** *Séance disponible pour un thème* - salle B2
   
 
 Déjeuners passés :
