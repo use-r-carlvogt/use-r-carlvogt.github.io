@@ -13,7 +13,7 @@ title: Prochains déjeuners
 * **7 février 2017** *Séance disponible pour un thème* - salle B2
 * **7 mars 2017** [Méthodo R] **Création de packages sous R** ([Adrien Remund](https://www.unige.ch/sciences-societe/ideso/membres/remund/), Institut de Démographie et Socioéconomie) - salle B1
 * **4 avril 2017** [Analyse de données] **Régressions robustes sous R** ([Eva Cantoni](https://www.unige.ch/gsem/rcs/members2/profs/eva-cantoni/), GSEM) - salle B1
-* **2 mai 2017** *Séance disponible pour un thème* - salle B1
+* **2 mai 2017** [Analyse de données] **Bayesian methods for R** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - salle B1
 * **6 juin 2017** *Séance disponible pour un thème* - salle B2
   
 
