@@ -6,7 +6,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **1er novembre 2016** [Analyse de données] **Modèles à équations structurales avec R (package [lavaan](http://lavaan.ugent.be/index.html))** ([Paolo Ghisletta](http://www.unige.ch/fapse/mad/equipe/ghisletta/), Faculté de psychologie et des sciences de l'éducation) - salle 2
+* **1er novembre 2016** [Analyse de données] **Modèles à équations structurales avec R (package [lavaan](http://lavaan.ugent.be/index.html))** ([Paolo Ghisletta](http://www.unige.ch/fapse/mad/equipe/ghisletta/), Faculté de psychologie et des sciences de l'éducation) - salle 2 - [Télécharger le script](/PDFs/2016Novembre_Ghisletta_SEM_R_lavaan_script.pdf) - [Télécharger la présentation](/PDFs/2016Novembre_Ghisletta_SEM_R_lavaan.pdf)
 * **6 décembre 2016** [Analyse de données] **Analyse de séquences (package [TraMineR](http://traminer.unige.ch/index.shtml))** ([Matthias Studer](https://www.unige.ch/sciences-societe/ideso/membres/matthias-studer), Institut de Démographie et Socioéconomie) - salle 2
 * **10 janvier 2017** [Méthodo R] **Collecter des données Twitter avec R** ([Elise Tancoigne](http://citizensciences.net/elise-tancoigne/), Projet Histoire des Sciences Citoyennes, Carl Vogt) - salle 2
 * **7 février 2017** *Séance disponible pour un thème* - salle 2
