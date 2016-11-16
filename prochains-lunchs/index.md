@@ -16,6 +16,7 @@ title: Prochains déjeuners
   
 
 Déjeuners passés :
+
 * 1er novembre 2016 [Analyse de données] **Modèles à équations structurales avec R** (package [lavaan](http://lavaan.ugent.be/index.html)) ([Paolo Ghisletta](http://www.unige.ch/fapse/mad/equipe/ghisletta/), Faculté de psychologie et des sciences de l'éducation) - [Télécharger le script](/PDFs/2016Novembre_Ghisletta_SEM_R_lavaan_script.pdf) - [Télécharger la présentation](/PDFs/2016Novembre_Ghisletta_SEM_R_lavaan.pdf)
 * 4 octobre 2016 [Analyse de données] **Ordinations multi-tableaux** ([Emmanuel Castella](http://leba.unige.ch/team/ecastella/), ISE/Forel) [Télécharger le script](/PDFs/2016Octobre_ECastella_multiscript.R) - [Télécharger le PDF](/PDFs/2016Octobre_ECastella_MultiTabppt.pdf)
 * 13 juin 2016 : [Analyse de données] **Modèles mixtes** ([Marc-Olivier Boldi](https://www.unige.ch/gsem/rcs/members2/profs/marc/), GSEM) [Télécharger le script](/PDFs/2016Juin_MOBoldi_codeR.R) - [Télécharger le jeu de données "vins"](/PDFs/2016Juin_MOBoldi_Data1.csv)
