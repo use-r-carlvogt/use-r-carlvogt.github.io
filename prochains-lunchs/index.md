@@ -15,6 +15,7 @@ title: Prochains déjeuners
   
 
 Déjeuners passés :
+
 * 6 décembre 2016 [Analyse de données] **Analyse de séquences (package [TraMineR](http://traminer.unige.ch/index.shtml))** ([Matthias Studer](https://www.unige.ch/sciences-societe/ideso/membres/matthias-studer), Institut de Démographie et Socioéconomie) - [Télécharger le script](/PDFs/2016Decembre_Studer_mvadexemple.R) - Télécharger les présentations : [Analyses de séquences](/PDFs/2016Decembre_Studer_Seq-Intro.pdf) - [Package TraMineR](/PDFs/2016Decembre_Studer_DejR-seqdef.pdf)
 * 1er novembre 2016 [Analyse de données] **Modèles à équations structurales avec R** (package [lavaan](http://lavaan.ugent.be/index.html)) ([Paolo Ghisletta](http://www.unige.ch/fapse/mad/equipe/ghisletta/), Faculté de psychologie et des sciences de l'éducation) - [Télécharger le script](/PDFs/2016Novembre_Ghisletta_SEM_R_lavaan_script.pdf) - [Télécharger la présentation](/PDFs/2016Novembre_Ghisletta_SEM_R_lavaan.pdf)
 * 4 octobre 2016 [Analyse de données] **Ordinations multi-tableaux** ([Emmanuel Castella](http://leba.unige.ch/team/ecastella/), ISE/Forel) [Télécharger le script](/PDFs/2016Octobre_ECastella_multiscript.R) - [Télécharger le PDF](/PDFs/2016Octobre_ECastella_MultiTabppt.pdf)
