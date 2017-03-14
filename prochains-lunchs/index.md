@@ -6,8 +6,8 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **4 avril 2017** [Analyse de données] **Régressions robustes sous R** ([Eva Cantoni](https://www.unige.ch/gsem/rcs/members2/profs/eva-cantoni/), GSEM) - salle **1**
-* **2 mai 2017** [Analyse de données] **Bayesian methods for R** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - salle **1**
+* **4 avril 2017** [Analyse de données] **Régressions robustes sous R** ([Eva Cantoni](https://www.unige.ch/gsem/rcs/members2/profs/eva-cantoni/), GSEM) - salle 2
+* **2 mai 2017** [Analyse de données] **Bayesian methods for R** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - salle 2
 * **6 juin 2017** *Séance disponible pour un thème* - salle 2
   
 
