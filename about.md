@@ -9,16 +9,16 @@ Les déjeuners R sont des rencontres mensuelles pluridisciplinaires à destinati
 
 La langue de présentation (français ou anglais) et de discussion sera adaptée à l’audience et au conférencier.
 
-**Quand ?** Tous les premiers mardis du mois, 12h15-13H30
+**Quand ?** Tous les premiers mardis du mois, 12h15-13h15
 
-**Où ?** [Bâtiment Carl Vogt](http://www.openstreetmap.org/node/3671421729#map=19/46.19730/6.13666) - Salle 1 ou 2, rez-de-chaussée (suivre les indications)
+**Où ?** [Bâtiment Carl Vogt](http://www.openstreetmap.org/node/3671421729#map=19/46.19730/6.13666) - Salle 2, rez-de-chaussée (suivre les indications)
 
 **Comment ?** Chaque déjeuner consiste en une présentation suivie d’une discussion. Les séances méthodologiques propres à R (ggplot, boucles et fonctions...) alterneront avec des séances centrées sur une question d'analyse de données (analyses factorielles, régressions...).
 
 **Organisation :**
 
 * Elise Tancoigne (collaboratrice Unige, Elise.Tancoigne@unige.ch) 
-* Dorothea Hug Peter (collaboratrice Unige, Dorothea.HugPeter@unige.ch)
+* Victorine Castex (collaboratrice Unige, Victorine.Castex@unige.ch)
 
 **Pour rester informé.e.s :**
 
