@@ -24,3 +24,6 @@ version:          2.1.0
 
 github:
   repo:         
+
+# Google services
+google_analytics: UA-94119874-1
