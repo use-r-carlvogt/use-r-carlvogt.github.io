@@ -11,7 +11,7 @@ title: Prochains déjeuners
 * **Reprise en octobre 2017**
   
 
-Déjeuners passés :
+## Déjeuners passés :
 
 * 2 mai 2017 [Analyse de données] **Bayesian methods for R 1/2 - theory** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - [Télécharger la présentation](/PDFs/2017Mai_Scheibehenne_Bayesian%20%methods.pdf)
 * 4 avril 2017 [Analyse de données] **Régressions robustes sous R** ([Eva Cantoni](https://www.unige.ch/gsem/rcs/members2/profs/eva-cantoni/), GSEM) - [Télécharger la présentation](/PDFs/2017Avril_Cantoni_Rlunch.pdf)
