@@ -13,7 +13,7 @@ title: Prochains déjeuners
 
 ## Déjeuners passés :
 
-* 2 mai 2017 [Analyse de données] **Bayesian methods for R 1/2 - theory** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - [Télécharger la présentation](/PDFs/2017Mai_Scheibehenne_Bayesian methods.pdf)
+* 2 mai 2017 [Analyse de données] **Bayesian methods for R 1/2 - theory** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - [Télécharger la présentation](/PDFs/2017Mai_Scheibehenne_Bayesian_methods.pdf)
 * 4 avril 2017 [Analyse de données] **Régressions robustes sous R** ([Eva Cantoni](https://www.unige.ch/gsem/rcs/members2/profs/eva-cantoni/), GSEM) - [Télécharger la présentation](/PDFs/2017Avril_Cantoni_Rlunch.pdf)
 * 7 mars 2017 [Méthodo R] **Création de packages sous R** ([Adrien Remund](https://www.unige.ch/sciences-societe/ideso/membres/remund/), Institut de Démographie et Socioéconomie) - [Télécharger la présentation](/PDFs/2017Mars_Remund_Creer packages.pdf)
 * 7 février 2017 [Méthodo R] **Collecter des données Twitter avec R** ([Elise Tancoigne](http://citizensciences.net/elise-tancoigne/), Projet Histoire des Sciences Citoyennes, Carl Vogt) - [Télécharger le script](/PDFs/2017Fevrier_Tancoigne_Twitter.R) - [Télécharger la présentation](/PDFs/2017Fevrier_Tancoigne_Twitter.pdf)
