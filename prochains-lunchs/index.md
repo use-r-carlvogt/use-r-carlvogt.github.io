@@ -6,13 +6,11 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **6 juin 2017** [Analyse de données] **Bayesian methods for R 2/2 - practice** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - salle 2
-
-* **Reprise en octobre 2017**
+**Reprise en octobre 2017.**
   
-
 ## Déjeuners passés :
 
+* 6 juin 2017 [Analyse de données] **Bayesian methods for R 2/2 - practice** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - [Télécharger la présentation et les scripts](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Juin_Scheibehenne_Bayesian_methods_practice.zip)
 * 2 mai 2017 [Analyse de données] **Bayesian methods for R 1/2 - theory** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - [Télécharger la présentation](/PDFs/2017Mai_Scheibehenne_Bayesian_methods.pdf)
 * 4 avril 2017 [Analyse de données] **Régressions robustes sous R** ([Eva Cantoni](https://www.unige.ch/gsem/rcs/members2/profs/eva-cantoni/), GSEM) - [Télécharger la présentation](/PDFs/2017Avril_Cantoni_Rlunch.pdf)
 * 7 mars 2017 [Méthodo R] **Création de packages sous R** ([Adrien Remund](https://www.unige.ch/sciences-societe/ideso/membres/remund/), Institut de Démographie et Socioéconomie) - [Télécharger la présentation](/PDFs/2017Mars_Remund_Creer packages.pdf)
