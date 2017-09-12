@@ -14,7 +14,7 @@ title: Prochains déjeuners
 
 * **6 mars 2018** - [Analyse de données] **Modèles mixtes 2/2 : Pratique** ([Marc-Olivier Boldi](https://www.unige.ch/gsem/rcs/members2/profs/marc/), GSEM) - salle UniMail M S050
 * *10 avril 2018 - A suivre* - salle UniMail M S050
-* *8 mai 2018 - A suivre* - salle UniMail M S050
+* **8 mai 2018** - [Analyse de données] **Machine Learning: nearest neighbors and random forests** ([Ben Meuleman](https://www.researchgate.net/profile/Ben_Meuleman), Faculté de Psychologie et Sciences de l'Education) - salle UniMail M S050
 * *5 juin 2018 - A suivre* - salle UniMail M S050
   
 ## Déjeuners passés :
