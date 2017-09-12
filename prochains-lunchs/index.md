@@ -6,7 +6,16 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-**Reprise en octobre 2017.**
+* **3 octobre 2017** [Méthodo R] - **Introduction à R pour les débutants** - salle UniMail M R160
+* **7 novembre 2017** [Analyse de données]- **Systèmes d'Information Géographique** ([Anthony Lehmann](https://www.unige.ch/envirospace/people/lehmann/), Environmental Sciences) - salle UniMail M R160
+* **5 décembre 2017** [Analyse de données]- **Permutation tests** ([Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Faculté de psychologie et des sciences de l'éducation) - salle UniMail M R160
+* **10 janvier 2017** *Pause*
+* **6 février 2018** - *Pas de session (semaine de formation CUSO en statistiques)*
+
+* **6 mars 2018** - [Analyse de données] **Modèles mixtes 2/2 : Pratique** ([Marc-Olivier Boldi](https://www.unige.ch/gsem/rcs/members2/profs/marc/), GSEM) - salle UniMail M S050
+* *10 avril 2018 - A suivre* - salle UniMail M S050
+* *8 mai 2018 - A suivre* - salle UniMail M S050
+* *5 juin 2018 - A suivre* - salle UniMail M S050
   
 ## Déjeuners passés :
 
