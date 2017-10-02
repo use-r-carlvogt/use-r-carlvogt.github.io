@@ -11,7 +11,7 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 
 **Quand ?** Tous les premiers mardis du mois, 12h15-13h30
 
-**Où ?** [Bâtiment Carl Vogt](http://www.openstreetmap.org/node/3671421729#map=19/46.19730/6.13666) - Salle 2, rez-de-chaussée (suivre les indications)
+**Où ?** [UniMail](http://www.openstreetmap.org/node/1582369226) - Salle : voir le [programme](http://use-r-carlvogt.github.io/prochains-lunchs/)
 
 **Comment ?** Chaque déjeuner consiste en une présentation suivie d’une discussion. Les séances méthodologiques propres à R (ggplot, boucles et fonctions...) alterneront avec des séances centrées sur une question d'analyse de données (analyses factorielles, régressions...).
 
