@@ -9,13 +9,13 @@ title: Prochains déjeuners
 * **7 novembre 2017** [Analyse de données]- **Systèmes d'Information Géographique** ([Anthony Lehmann](https://www.unige.ch/envirospace/people/lehmann/), Environmental Sciences) - salle UniMail **MR170 (rez-de-chaussée)**
 * **5 décembre 2017** [Analyse de données]- **Permutation tests** ([Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Faculté de psychologie et des sciences de l'éducation) - salle UniMail **MR170 (rez-de-chaussée)**
 * **10 janvier 2017** *Pause*
-* **6 février 2018** - *Pas de session (semaine de formation CUSO en statistiques)*
 
-* **13 février 2018** - [Méthodo R] - **Graphiques sous R** - salle UniMail M S050
-* **6 mars 2018** - [Analyse de données] **Modèles mixtes 2/2 : Pratique** ([Marc-Olivier Boldi](https://www.unige.ch/gsem/rcs/members2/profs/marc/), GSEM) - salle UniMail M S050
-* **10 avril 2018** -  [Méthodo R] - **Jongler avec dplyr et tidyr** - salle UniMail M S050
-* **8 mai 2018** - [Analyse de données] **Machine Learning: nearest neighbors and random forests** ([Ben Meuleman](https://www.researchgate.net/profile/Ben_Meuleman), Faculté de Psychologie et Sciences de l'Education) - salle UniMail M S050
-* *5 juin 2018 - A suivre* - salle UniMail M S050
+* **6 février 2018** - *Pas de session (semaine de formation CUSO en statistiques). Remplacé par le 13 février*.
+* **13 février 2018** - [Méthodo R] - **Graphiques sous R** ([Jean-Christophe Aubert](https://www.linkedin.com/in/jean-christophe-aubert-7295453b/?ppe=1), mathématicien) - salle UniMail MS050
+* **6 mars 2018** - [Analyse de données] **Modèles mixtes 2/2 : Pratique** ([Marc-Olivier Boldi](https://www.unige.ch/gsem/rcs/members2/profs/marc/), GSEM) - salle UniMail MS050
+* **10 avril 2018** -  [Méthodo R] - **Jongler avec dplyr et tidyr** - ([Pierre-Alexandre Fonta](http://ch.linkedin.com/in/pafonta), EPFL) - salle UniMail MS050
+* **8 mai 2018** - [Analyse de données] **Machine Learning: nearest neighbors and random forests** ([Ben Meuleman](https://www.researchgate.net/profile/Ben_Meuleman), Faculté de Psychologie et Sciences de l'Education) - salle UniMail MS050
+* *5 juin 2018 - A suivre* - salle UniMail MS050
   
 ## Déjeuners passés :
 
