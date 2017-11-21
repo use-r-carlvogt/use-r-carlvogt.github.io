@@ -6,7 +6,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **Attention changement de date et salle:** ~~7 novembre~~ **21 novembre 2017** [Analyse de données]- **Systèmes d'Information Géographique** ([Anthony Lehmann](https://www.unige.ch/envirospace/people/lehmann/), Environmental Sciences) - salle ~~UniMail MR170~~   **UniMail 5193**
+* **Attention changement de date et salle:** ~~7 novembre~~ **21 novembre 2017** [Analyse de données]- **Systèmes d'Information Géographique** ([Anthony Lehmann](https://www.unige.ch/envirospace/people/lehmann/), Environmental Sciences) - salle ~~UniMail MR170~~   **UniMail 5193** [télécharger les données](https://www.dropbox.com/s/ugukoe41x92zae1/LehmannRdej.zip?dl=0)
 * **5 décembre 2017** [Analyse de données]- **Permutation tests** ([Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Faculté de psychologie et des sciences de l'éducation) - salle UniMail **MR170 (rez-de-chaussée)**
 * **10 janvier 2017** *Pause*
 
