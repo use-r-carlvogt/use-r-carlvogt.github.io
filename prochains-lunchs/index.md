@@ -3,10 +3,11 @@ layout: page
 title: Prochains déjeuners
 ---
 ![](http://www.phdcomics.com/comics/archive/phd112107s.gif)
+
+**Tous les premiers mardis du mois, 12h15-13h30**
   
 ## Prochains déjeuners
 
-* **Attention changement de date et salle:** ~~7 novembre~~ **21 novembre 2017** [Analyse de données]- **Systèmes d'Information Géographique** ([Anthony Lehmann](https://www.unige.ch/envirospace/people/lehmann/), Environmental Sciences) - salle ~~UniMail MR170~~   **UniMail 5193** [télécharger les données](https://www.dropbox.com/s/ugukoe41x92zae1/LehmannRdej.zip?dl=0)
 * **5 décembre 2017** [Analyse de données]- **Permutation tests** ([Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Faculté de psychologie et des sciences de l'éducation) - salle UniMail **MR170 (rez-de-chaussée)**
 * **10 janvier 2017** *Pause*
 
@@ -19,6 +20,7 @@ title: Prochains déjeuners
   
 ## Déjeuners passés :
 
+* 21 novembre 2017 [Analyse de données] - **Systèmes d'Information Géographique** ([Anthony Lehmann](https://www.unige.ch/envirospace/people/lehmann/), Environmental Sciences) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Novembre_Lehmann_Dejeuner-R-Geotatistics-with-R.pdf) - [Télécharger les données](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Novembre_Lehmann_data.zip)
 * 3 octobre 2017 [Méthodo R] - **Introduction à R pour les débutants** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/) et [Marie-Hélène Descary](https://www.unige.ch/fapse/mad/equipe/descary/), Faculté de Psychologie et Sciences de l'Education) - [Télécharger le tutoriel et les données](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017OctobreORenaudMHDescary_introductionR.zip)
 
 * 6 juin 2017 [Analyse de données] **Bayesian methods for R 2/2 - practice** ([Benjamin Scheibehenne](https://unige.ch/gsem/iom/members1/professors/scheibehenne-benjamin), GSEM) - [Télécharger la présentation et les scripts](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Juin_Scheibehenne_Bayesian_methods_practice.zip)
