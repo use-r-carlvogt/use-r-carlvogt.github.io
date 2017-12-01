@@ -8,7 +8,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **5 décembre 2017** [Analyse de données]- **Tests de permutations** ([Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Faculté de psychologie et des sciences de l'éducation) - salle UniMail **MR170 (rez-de-chaussée)**
+* **5 décembre 2017** [Analyse de données]- **Tests de permutations** ([Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Faculté de psychologie et des sciences de l'éducation) - salle UniMail **MR170 (rez-de-chaussée)** [Télécharger le script](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Decembre_Frossard_permuco.R)
 * **10 janvier 2017** *Pause*
 
 * **6 février 2018** - *Pas de session (semaine de formation CUSO en statistiques). Remplacé par le 13 février*.
