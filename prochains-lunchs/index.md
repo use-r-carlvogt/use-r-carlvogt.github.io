@@ -8,9 +8,6 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **10 janvier 2017** *Pause*
-
-* **6 février 2018** - *[Semaine de formation CUSO en statistiques](https://statistique.cuso.ch/index.php?id=2688&tx_displaycontroller[showUid]=3840). Séance remplacée par le 13 février*.
 * **13 février 2018** - [Méthodo R] - **Graphiques sous R** ([Jean-Christophe Aubert](https://www.linkedin.com/in/jean-christophe-aubert-7295453b/?ppe=1), mathématicien) - salle UniMail MS050
 * **6 mars 2018** - [Analyse de données] **Modèles mixtes 2/2 : Pratique** ([Marc-Olivier Boldi](https://www.unige.ch/gsem/rcs/members2/profs/marc/), GSEM) - salle UniMail MS050
 * **10 avril 2018** -  [Méthodo R] - Séance sur la gestion des données. **Jongler avec dplyr, tidyr** ([Pierre-Alexandre Fonta](http://ch.linkedin.com/in/pafonta), EPFL), et **data table** ([Denis Mongin](https://www.researchgate.net/profile/Denis_Mongin/info), Département de médecine interne) - salle UniMail MS050
@@ -19,6 +16,8 @@ title: Prochains déjeuners
   
 ## Déjeuners passés :
 
+* 6 février 2018 - *[Semaine de formation CUSO en statistiques](https://statistique.cuso.ch/index.php?id=2688&tx_displaycontroller[showUid]=3840). Séance remplacée par le 13 février*.
+* 10 janvier 2017 *Pause*
 * 5 décembre 2017 [Analyse de données] - **Tests de permutations** ([Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Faculté de psychologie et des sciences de l'éducation) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Decembre_Frossard_presentation_permuco.pdf) - [Télécharger le script](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Decembre_Frossard_permuco.R)
 * 21 novembre 2017 [Analyse de données] - **Systèmes d'Information Géographique** ([Anthony Lehmann](https://www.unige.ch/envirospace/people/lehmann/), Environmental Sciences) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Novembre_Lehmann_Dejeuner-R-Geotatistics-with-R.pdf) - [Télécharger les données](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017Novembre_Lehmann_data.zip)
 * 3 octobre 2017 [Méthodo R] - **Introduction à R pour les débutants** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/) et [Marie-Hélène Descary](https://www.unige.ch/fapse/mad/equipe/descary/), Faculté de Psychologie et Sciences de l'Education) - [Télécharger le tutoriel et les données](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2017OctobreORenaudMHDescary_introductionR.zip)
