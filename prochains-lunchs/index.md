@@ -8,7 +8,6 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **6 mars 2018** - [Analyse de données] **Modèles mixtes 2/2 : Pratique** ([Marc-Olivier Boldi](https://www.unige.ch/gsem/rcs/members2/profs/marc/), GSEM) - salle UniMail MS050
 * **10 avril 2018** -  [Méthodo R] - Séance sur la gestion des données. **Jongler avec dplyr, tidyr** ([Pierre-Alexandre Fonta](http://ch.linkedin.com/in/pafonta), EPFL), et **data table** ([Denis Mongin](https://www.researchgate.net/profile/Denis_Mongin/info), Département de médecine interne) - salle UniMail MS050
 * **24 avril 2018** -  [Méthodo R] - **Building a web application with Shiny** ([Elisabeth Dahlqwist](https://wp.unil.ch/sgg/elisabeth-dahlqwist/), University of Stockholm) - salle UniMail **M1193**
 * **8 mai 2018** - [Analyse de données] **Machine Learning: nearest neighbors and random forests** ([Ben Meuleman](https://www.researchgate.net/profile/Ben_Meuleman), Faculté de Psychologie et Sciences de l'Education) - salle UniMail MS050
@@ -16,6 +15,7 @@ title: Prochains déjeuners
   
 ## Déjeuners passés :
 
+* 6 mars 2018 - [Analyse de données] **Modèles mixtes 2/2 : Pratique** ([Marc-Olivier Boldi](https://www.unige.ch/gsem/rcs/members2/profs/marc/), GSEM) - [Télécharger le script](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Mars_MOBoldi_HandsOn.html) - [Télécharger les données](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Mars_MOBoldi_data.zip)
 * 13 février 2018 [Méthodo R] - **Graphiques sous R** ([Jean-Christophe Aubert](https://www.linkedin.com/in/jean-christophe-aubert-7295453b/?ppe=1), mathématicien) - [Télécharger les ressources](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Mars_JCAubert_ggplot.zip)
 * 6 février 2018 - *[Semaine de formation CUSO en statistiques](https://statistique.cuso.ch/index.php?id=2688&tx_displaycontroller[showUid]=3840). Séance remplacée par le 13 février*.
 * 10 janvier 2017 **Pause**
