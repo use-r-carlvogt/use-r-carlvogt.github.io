@@ -8,7 +8,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **10 avril 2018** -  [Méthodo R] - Séance sur la gestion des données. **Jongler avec dplyr, tidyr** ([Pierre-Alexandre Fonta](http://ch.linkedin.com/in/pafonta), EPFL), et **data table** ([Denis Mongin](https://www.researchgate.net/profile/Denis_Mongin/info), Département de médecine interne) - salle UniMail MS050
+* **10 avril 2018** -  [Méthodo R] - Séance sur la gestion des données. **Jongler avec dplyr, tidyr** ([Pierre-Alexandre Fonta](http://ch.linkedin.com/in/pafonta), EPFL), et **data table** ([Denis Mongin](https://www.researchgate.net/profile/Denis_Mongin/info), Département de médecine interne) - salle UniMail MS050 - [Télécharger les ressources pour data.table](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Avril_Mongin_data_table.zip)
 * **24 avril 2018** -  [Méthodo R] - **Building a web application with Shiny** ([Elisabeth Dahlqwist](https://wp.unil.ch/sgg/elisabeth-dahlqwist/), University of Stockholm) - salle UniMail **M1193**
 * **8 mai 2018** - [Analyse de données] **Machine Learning: nearest neighbors and random forests** ([Ben Meuleman](https://www.researchgate.net/profile/Ben_Meuleman), Faculté de Psychologie et Sciences de l'Education) - salle UniMail MS050
 * **5 juin 2018** - [Analyse de données] **Analyse de réseaux avec R** ([Marion Deville](https://www.unige.ch/sciences-societe/socio/fr/mariondeville/),  Institut de recherches sociologiques) - salle UniMail MS050
