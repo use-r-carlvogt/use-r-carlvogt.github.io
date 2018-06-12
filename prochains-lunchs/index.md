@@ -8,12 +8,13 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
+
 *Pause estivale - retour des déjeuners en octobre 2018*
+
 
 ## Déjeuners passés :
 
 * 5 juin 2018 - [Analyse de données] **Analyse de réseaux avec R** ([Marion Deville](https://www.unige.ch/sciences-societe/socio/fr/mariondeville/),  Institut de recherches sociologiques) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Juin_MDeville_intro_reseaux_spnet.pdf)
-
 * 8 mai 2018 - [Analyse de données] - **Machine Learning: nearest neighbors and random forests** ([Ben Meuleman](https://www.researchgate.net/profile/Ben_Meuleman), Faculté de Psychologie et Sciences de l'Education) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Mai_Meulemann_Intro_machine_learning.pdf)
 * 24 avril 2018 - [Méthodo R] - **Building a web application with Shiny** ([Elisabeth Dahlqwist](https://wp.unil.ch/sgg/elisabeth-dahlqwist/), Karolinska Institutet, Stockholm) - [Télécharger la présentation](https://github.com/rladies/meetup-presentations_lausanne/tree/master/20180314_shiny)
 * 10 avril 2018 - [Méthodo R] - Séance sur la gestion des données. **Jongler avec dplyr, tidyr** ([Pierre-Alexandre Fonta](http://ch.linkedin.com/in/pafonta), EPFL), et **data table** ([Denis Mongin](https://www.researchgate.net/profile/Denis_Mongin/info), Département de médecine interne) - [Télécharger les ressources pour dplyr et tidyr](https://github.com/pafonta/r-lunch-10-04-18) - [Télécharger les ressources pour data.table](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Avril_Mongin_data_table.zip)
