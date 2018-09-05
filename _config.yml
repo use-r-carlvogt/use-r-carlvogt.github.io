@@ -8,8 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            R lunchs
-tagline:          'Rencontres pluridisciplinaires autour de R à Carl Vogt'
-description:      'Rencontres pluridisciplinaires autour de R à Carl Vogt'
+tagline:          'Rencontres pluridisciplinaires autour de R à UniMail'
+description:      'Rencontres pluridisciplinaires autour de R à UniMail'
 url:              
 baseurl:          /
 
