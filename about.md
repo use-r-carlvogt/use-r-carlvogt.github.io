@@ -18,7 +18,7 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 **Organisation :**
 
 * Elise Tancoigne (collaboratrice Unige, Elise.Tancoigne@unige.ch) 
-* Victorine Castex (collaboratrice Unige, Victorine.Castex@unige.ch)
+* Xavier Adam (EPFL extension school, xavier.adam@epfl.ch)
 
 **Pour rester informé.e.s :**
 
