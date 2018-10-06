@@ -8,9 +8,6 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-
-* **2 octobre 2018** - [Analyse de données] - **Introduction à R pour les débutants** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/) et [Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/), Unige) - UniMail MS150 - [Télécharger les documents et jeux de données](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Octobre_MaterialIntro_R_RStudio_Rlunch18.zip)
-
 * **6 novembre 2018** - [Méthodo R] - **Functional R with pipes and purrr** ([Xavier Adam](https://exts.epfl.ch/who-we-are/team), EPFL-Campus biotech) - UniMail MS150
 
 * **4 décembre 2018** - [Méthodo R] - **Workflow & best practices for projects** ([Sina Rüeger](https://sinarueeger.github.io/), EPFL) - UniMail MS150
@@ -29,6 +26,8 @@ title: Prochains déjeuners
 
 
 ## Déjeuners passés :
+
+* 2 octobre 2018 - [Analyse de données] - **Introduction à R pour les débutants** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/) et [Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/), Unige) - [Télécharger les documents et jeux de données](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Octobre_MaterialIntro_R_RStudio_Rlunch18.zip)
 
 **Année académique 2017-2018**
 * 5 juin 2018 - [Analyse de données] - **Analyse de réseaux avec R** ([Marion Deville](https://www.unige.ch/sciences-societe/socio/fr/mariondeville/),  Institut de recherches sociologiques) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Juin_MDeville_intro_reseaux_spnet.pdf)
