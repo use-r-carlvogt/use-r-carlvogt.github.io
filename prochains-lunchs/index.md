@@ -18,7 +18,7 @@ title: Prochains déjeuners
 
 * **5 mars 2019** - [Méthodo R] - **R markdown** ([Maria-Pia Victoria-Feser](https://www.unige.ch/gsem/en/research/faculty/all/maria-pia-victoria-feser/), GSEM) - UniMail 2140
 
-* **2 avril 2019** - *to be precised* - UniMail 2140
+* **2 avril 2019** - **Networks anaysis with the igraph package** ([Yannick Rochat](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1063847&LanCode=37&menu=curri), UNIL) - UniMail 2140
 
 * **7 mai 2019** - *to be precised* - UniMail 2140
 
