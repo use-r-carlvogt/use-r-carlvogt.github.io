@@ -8,7 +8,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* *1er janvier 2018 - Pause*
+* *1er janvier 2019 - Pause*
 
 * **5 février 2019** - [Analyse de données] - **Statistical inference in the tidyverse framework: the Infer package** ([Elise Dupuis-Lozeron](https://www.hug-ge.ch/epidemiologie-clinique/elise-dupuis-lozeron-phd), HUG) - UniMail 2140
 
