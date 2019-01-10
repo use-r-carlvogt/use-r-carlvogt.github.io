@@ -8,8 +8,6 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* *1er janvier 2019 - Pause*
-
 * **5 février 2019** - [Analyse de données] - **Statistical inference in the tidyverse framework: the Infer package** ([Elise Dupuis-Lozeron](https://www.hug-ge.ch/epidemiologie-clinique/elise-dupuis-lozeron-phd), HUG) - UniMail 2140
 
 * **5 mars 2019** - [Méthodo R] - **R markdown** ([Maria-Pia Victoria-Feser](https://www.unige.ch/gsem/en/research/faculty/all/maria-pia-victoria-feser/), GSEM) - UniMail 2140
@@ -23,10 +21,9 @@ title: Prochains déjeuners
 
 ## Déjeuners passés :
 
+* *1er janvier 2019 - Pause*
 * 4 décembre 2018 - [Méthodo R] - **Workflow & best practices for projects** ([Sina Rüeger](https://sinarueeger.github.io/), EPFL) - [Télécharger la présentation](https://sinarueeger.github.io/20181204-r-lunchs-gva/#1)
-
 * 6 novembre 2018 - [Méthodo R] - **Functional R with pipes and purrr** ([Xavier Adam](https://exts.epfl.ch/who-we-are/team), EPFL-Campus biotech)
-
 * 2 octobre 2018 - [Analyse de données] - **Introduction à R pour les débutants** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/) et [Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/), Unige) - [Télécharger les documents et jeux de données](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Octobre_MaterialIntro_R_RStudio_Rlunch18.zip)
 
 **Année académique 2017-2018**
