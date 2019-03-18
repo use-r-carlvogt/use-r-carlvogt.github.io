@@ -17,7 +17,7 @@ title: Prochains déjeuners
 
 ## Déjeuners passés :
 
-* 5 mars 2019 - [Méthodo R] - **R markdown** ([Stéphane Guerrier](https://stephaneguerrier.com/index.html), GSEM)
+* 5 mars 2019 - [Méthodo R] - **R markdown** ([Stéphane Guerrier](https://stephaneguerrier.com/index.html), GSEM) - [Ressources en ligne](https://smac-group.github.io/ds/rmarkdown.html)
 * 5 février 2019 - [Analyse de données] - **Statistical inference in the tidyverse framework: the Infer package** ([Elise Dupuis-Lozeron](https://www.hug-ge.ch/epidemiologie-clinique/elise-dupuis-lozeron-phd), HUG) - [Visualiser la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019Fevrier_EDupuisLozeron_R_lunch_Git/Infer_Pres.html)
 * *1er janvier 2019 - Pause*
 * 4 décembre 2018 - [Méthodo R] - **Workflow & best practices for projects** ([Sina Rüeger](https://sinarueeger.github.io/), EPFL) - [Télécharger la présentation](https://sinarueeger.github.io/20181204-r-lunchs-gva/#1)
