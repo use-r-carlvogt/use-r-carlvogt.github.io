@@ -8,15 +8,14 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **2 avril 2019** - [Analyse de données] - **Network analysis with the igraph package** ([Yannick Rochat](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1063847&LanCode=37&menu=curri), UNIL) - UniMail 2140
-
-* **7 mai 2019** - *to be precised* - UniMail 2140
+* **14 mai 2019** - *to be precised* - UniMail 2140
 
 * **4 juin 2019** - [Analyse de données] - **Text analysis in Python for R-users** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - UniMail 2140
 
 
 ## Déjeuners passés :
 
+* 2 avril 2019 - [Analyse de données] - **Network analysis with the igraph package** ([Yannick Rochat](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1063847&LanCode=37&menu=curri), UNIL) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019Avril_Rochat_igraph.pdf)
 * 5 mars 2019 - [Méthodo R] - **R markdown** ([Stéphane Guerrier](https://stephaneguerrier.com/index.html), GSEM) - [Ressources en ligne](https://smac-group.github.io/ds/rmarkdown.html)
 * 5 février 2019 - [Analyse de données] - **Statistical inference in the tidyverse framework: the Infer package** ([Elise Dupuis-Lozeron](https://www.hug-ge.ch/epidemiologie-clinique/elise-dupuis-lozeron-phd), HUG) - [Visualiser la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019Fevrier_EDupuisLozeron_R_lunch_Git/Infer_Pres.html)
 * *1er janvier 2019 - Pause*
