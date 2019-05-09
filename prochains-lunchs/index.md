@@ -8,7 +8,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **14 mai 2019** - *to be precised* - UniMail 2140
+* **14 mai 2019** - [Méthodo R] - **Data validation in R** ([Bobby Stuijfzand](https://www.linkedin.com/in/bobby-stuijfzand-60863448/), freelance data scientist, Lausanne) - UniMail 2140
 
 * **4 juin 2019** - [Analyse de données] - **Text analysis in Python for R-users** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - UniMail 2140
 
