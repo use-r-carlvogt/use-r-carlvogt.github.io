@@ -8,13 +8,12 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **14 mai 2019** - [Méthodo R] - **Data validation in R** ([Bobby Stuijfzand](https://www.linkedin.com/in/bobby-stuijfzand-60863448/), freelance data scientist, Lausanne) - UniMail 2140
-
 * **4 juin 2019** - [Analyse de données] - **Text analysis in Python for R-users** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - UniMail 2140
 
 
 ## Déjeuners passés :
 
+* 14 mai 2019 - [Méthodo R] - **Data validation in R** ([Bobby Stuijfzand](https://www.linkedin.com/in/bobby-stuijfzand-60863448/), freelance data scientist, Lausanne) - [Visualiser la présentation](https://bobbyglenns.github.io/190514-R-lunch-geneva/presentation_online.html)
 * 2 avril 2019 - [Analyse de données] - **Network analysis with the igraph package** ([Yannick Rochat](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1063847&LanCode=37&menu=curri), UNIL) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019Avril_Rochat_igraph.pdf)
 * 5 mars 2019 - [Méthodo R] - **R markdown** ([Stéphane Guerrier](https://stephaneguerrier.com/index.html), GSEM) - [Ressources en ligne](https://smac-group.github.io/ds/rmarkdown.html)
 * 5 février 2019 - [Analyse de données] - **Statistical inference in the tidyverse framework: the Infer package** ([Elise Dupuis-Lozeron](https://www.hug-ge.ch/epidemiologie-clinique/elise-dupuis-lozeron-phd), HUG) - [Visualiser la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019Fevrier_EDupuisLozeron_R_lunch_Git/Infer_Pres.html)
