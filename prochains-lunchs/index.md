@@ -8,7 +8,7 @@ title: Prochains déjeuners
   
 ## Prochains déjeuners
 
-* **4 juin 2019** - [Analyse de données] - **Text analysis in Python for R-users** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - UniMail 2140
+* **4 juin 2019** - [Analyse de données] - **Common pitfalls in sentiment analysis** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - UniMail 2140
 
 
 ## Déjeuners passés :
