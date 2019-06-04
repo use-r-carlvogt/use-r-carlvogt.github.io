@@ -4,15 +4,16 @@ title: Prochains déjeuners
 ---
 ![](http://www.phdcomics.com/comics/archive/phd112107s.gif)
 
-**Tous les premiers mardis du mois, 12h15-13h30**
+**First Tuesday, each month, 12h15-13h30**
   
-## Prochains déjeuners
+## Next R-lunchs
 
-* **4 juin 2019** - [Analyse de données] - **Common pitfalls in sentiment analysis** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - UniMail 2140
+*R-lunchs will be back on October 1st, 2020*
 
 
-## Déjeuners passés :
+## Past R-lunchs
 
+* 4 juin 2019 - [Analyse de données] - **Common pitfalls in sentiment analysis** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - [Visualiser la présentation](https://mar-muel.github.io/pitfalls_in_sentiment_analysis/index.html)
 * 14 mai 2019 - [Méthodo R] - **Data validation in R** ([Bobby Stuijfzand](https://www.linkedin.com/in/bobby-stuijfzand-60863448/), freelance data scientist, Lausanne) - [Visualiser la présentation](https://bobbyglenns.github.io/190514-R-lunch-geneva/presentation_online.html)
 * 2 avril 2019 - [Analyse de données] - **Network analysis with the igraph package** ([Yannick Rochat](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1063847&LanCode=37&menu=curri), UNIL) - [Télécharger la présentation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019Avril_Rochat_igraph.pdf)
 * 5 mars 2019 - [Méthodo R] - **R markdown** ([Stéphane Guerrier](https://stephaneguerrier.com/index.html), GSEM) - [Ressources en ligne](https://smac-group.github.io/ds/rmarkdown.html)
