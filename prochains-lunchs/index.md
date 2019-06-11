@@ -8,7 +8,7 @@ title: Prochains déjeuners
   
 ## Next R-lunchs
 
-*R-lunchs will be back on October 1st, 2020*
+*R-lunchs will be back on October 1st, 2019*
 
 
 ## Past R-lunchs
