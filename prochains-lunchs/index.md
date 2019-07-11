@@ -4,12 +4,25 @@ title: Prochains déjeuners
 ---
 ![](http://www.phdcomics.com/comics/archive/phd112107s.gif)
 
-**First Tuesday, each month, 12h15-13h30**
+**(Almost always) first Tuesday, each month, 12h15-13h30**
   
 ## Next R-lunchs
 
-*R-lunchs will be back on October 1st, 2019*
+* October 1st, 2019 - *forthcoming*
 
+* October 22, 2019 - *forthcoming* 
+
+* November 11, 2019 - *forthcoming* 
+
+* December 3, 2019 - *forthcoming*
+
+* February 18, 2020 - *forthcoming*
+
+* March 3, 2020 - *forthcoming*
+
+* April 7, 2020 - *forthcoming*
+
+* May 5, 2020 - *forthcoming*
 
 ## Past R-lunchs
 
