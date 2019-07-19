@@ -12,7 +12,7 @@ title: Prochains déjeuners
 
 * October 22, 2019 - *forthcoming* 
 
-* November 11, 2019 - *forthcoming* 
+* November 12, 2019 - *forthcoming* 
 
 * December 3, 2019 - *forthcoming*
 
