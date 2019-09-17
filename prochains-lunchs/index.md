@@ -8,15 +8,15 @@ title: Prochains déjeuners
   
 ## Next R-lunchs
 
-* October 1st, 2019 - *forthcoming*
+* October 1st, 2019 - [Data analysis] - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/), Unige) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Octobre_MaterialIntro_R_RStudio_Rlunch18.zip)
 
-* October 22, 2019 - *forthcoming* 
+* October **29**, 2019 - *forthcoming* 
 
-* November 12, 2019 - *forthcoming* 
+* November **12**, 2019 - *forthcoming* 
 
 * December 3, 2019 - *forthcoming*
 
-* February 18, 2020 - *forthcoming*
+* February **18**, 2020 - *forthcoming*
 
 * March 3, 2020 - *forthcoming*
 
