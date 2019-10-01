@@ -8,21 +8,21 @@ title: Prochains déjeuners
   
 ## Next R-lunchs
 
-* October 1st, 2019 - [Data analysis] - UniMail M4389 - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/), Unige) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Octobre_MaterialIntro_R_RStudio_Rlunch18.zip)
+* October 1st, 2019 - UniMail M4389 - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/), Unige) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2018Octobre_MaterialIntro_R_RStudio_Rlunch18.zip)
 
-* October **29**, 2019 - UniMail M5342 - *forthcoming* 
+* October **29**, 2019 - UniMail M5342 - **Striving to Demystify Bayesian Computational Modelling (in RStan)** ([Marco Wirthlin](https://www.linkedin.com/in/mwirthlin/), Freelance Data Scientist)
 
-* November **12**, 2019 - UniMail M5342 - *forthcoming* 
+* November **26**, 2019 - UniMail M5342 - *forthcoming* 
 
-* December 3, 2019 - UniMail M5342 - *forthcoming*
+* December 3, 2019 - UniMail M5342 - **Topics in machine learning - Piecewise linear regression with splines** ([Ben Meuleman](https://www.unige.ch/cisa/members/meuleman-ben/), Swiss Center for Affective Sciences)
 
-* February **18**, 2020 - UniMail M2193 - *forthcoming*
+* February **18**, 2020 - UniMail M2193 - **Alternative syntaxes with the tidyverse** ([Xavier Adam](https://exts.epfl.ch/who-we-are/team), EPFL-Campus biotech)
 
-* March 3, 2020 - UniMail M2193 - *forthcoming*
+* March 3, 2020 - UniMail M2193 - **Mixed models** ([Marc-Olivier Boldi](https://www.linkedin.com/in/marc-olivier-boldi-7a39564/?originalSubdomain=ch), HEC Lausanne)
 
-* April 7, 2020 - UniMail M2193 - *forthcoming*
+* April 7, 2020 - UniMail M2193 - **Code sharing with github** ([Samuel Orso](https://www.unige.ch/gsem/fr/recherche/instituts/rcs/equipe/fellows/samuel-orso/), GSEM)
 
-* May 5, 2020 - UniMail M2193 - *forthcoming*
+* **Monday** May 4, 2020 - UniMail M2193 - **Web scraping with R** ([Roy Gava](https://www.alexandria.unisg.ch/persons/7745), University of St Gallen)
 
 ## Past R-lunchs
 
