@@ -8,8 +8,6 @@ title: Next R-lunches
   
 ## Next R-lunches
 
-* October 1st, 2019 - UniMail M4389 - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige)  - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MaterialIntro_R_RStudio_Rlunch19.zip)
-
 * October **29**, 2019 - UniMail M5342 - **Striving to Demystify Bayesian Computational Modelling (in RStan)** ([Marco Wirthlin](https://www.linkedin.com/in/mwirthlin/), Freelance Data Scientist)
 
 * November **26**, 2019 - UniMail M5342 - *forthcoming* 
@@ -25,6 +23,8 @@ title: Next R-lunches
 * **Monday** May 4, 2020 - UniMail M2193 - **Web scraping with R** ([Roy Gava](https://www.alexandria.unisg.ch/persons/7745), University of St Gallen)
 
 ## Past R-lunches
+
+* October 1st, 2019 - UniMail M4389 - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige)  - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MaterialIntro_R_RStudio_Rlunch19.zip)
 
 **Academic year 2018-2019**
 * 4 juin 2019 - [Analyse de données] - **Common pitfalls in sentiment analysis** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - [Visualiser la présentation](https://mar-muel.github.io/pitfalls_in_sentiment_analysis/index.html)
