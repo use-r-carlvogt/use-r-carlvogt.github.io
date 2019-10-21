@@ -10,7 +10,7 @@ title: Next R-lunches
 
 * October **29**, 2019 - UniMail M5342 - **Striving to Demystify Bayesian Computational Modelling (in RStan)** ([Marco Wirthlin](https://www.linkedin.com/in/mwirthlin/), Freelance Data Scientist)
 
-* November **26**, 2019 - UniMail M5342 - *forthcoming* 
+* November **26**, 2019 - UniMail M5342 - **'caret' wrap: a healthy lunch for a data scientist** ([Iegor Rudnytskyi](https://irudnyts.github.io/about/), HEC Lausanne)
 
 * December 3, 2019 - UniMail M5342 - **Topics in machine learning - Piecewise linear regression with splines** ([Ben Meuleman](https://www.unige.ch/cisa/members/meuleman-ben/), Swiss Center for Affective Sciences)
 
