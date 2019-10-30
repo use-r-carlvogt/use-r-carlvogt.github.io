@@ -22,7 +22,7 @@ title: Next R-lunches
 
 ## Past R-lunches
 
-* October 29, 2019 - **Striving to Demystify Bayesian Computational Modelling (in RStan)** ([Marco Wirthlin](https://www.linkedin.com/in/mwirthlin/), Freelance Data Scientist) - Download [the slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MWirthlin_UNIGE_R_Lunch_online_version.pdf) and [Marco's 8-pages intro to bayesian computation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MWirthlin_IntroBayesianComputation_Wirthlin.pdf)
+* October 29, 2019 - **Striving to Demystify Bayesian Computational Modelling (in RStan)** ([Marco Wirthlin](https://www.linkedin.com/in/mwirthlin/), Freelance Data Scientist) - Download [the slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MWirthlin_UNIGE_R_Lunch_online_version.pdf) and [Marco's introductory paper to bayesian computation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MWirthlin_IntroBayesianComputation_Wirthlin.pdf)
 * October 1st, 2019 - UniMail M4389 - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MaterialIntro_R_RStudio_Rlunch19.zip)
 
 **Academic year 2018-2019**
