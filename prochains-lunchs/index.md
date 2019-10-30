@@ -8,8 +8,6 @@ title: Next R-lunches
   
 ## Next R-lunches
 
-* October **29**, 2019 - UniMail **M4050** - **Striving to Demystify Bayesian Computational Modelling (in RStan)** ([Marco Wirthlin](https://www.linkedin.com/in/mwirthlin/), Freelance Data Scientist)
-
 * November **26**, 2019 - UniMail M5342 - **'caret' wrap: a healthy lunch for a data scientist** ([Iegor Rudnytskyi](https://irudnyts.github.io/about/), HEC Lausanne)
 
 * December 3, 2019 - UniMail M5342 - **Topics in machine learning - Piecewise linear regression with splines** ([Ben Meuleman](https://www.unige.ch/cisa/members/meuleman-ben/), Swiss Center for Affective Sciences)
@@ -24,7 +22,8 @@ title: Next R-lunches
 
 ## Past R-lunches
 
-* October 1st, 2019 - UniMail M4389 - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige)  - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MaterialIntro_R_RStudio_Rlunch19.zip)
+* October 29, 2019 - **Striving to Demystify Bayesian Computational Modelling (in RStan)** ([Marco Wirthlin](https://www.linkedin.com/in/mwirthlin/), Freelance Data Scientist) - Download [the slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MWirthlin_UNIGE_R_Lunch_online_version.pdf) and [Marco's 8-pages intro to bayesian computation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MWirthlin_IntroBayesianComputation_Wirthlin.pdf)
+* October 1st, 2019 - UniMail M4389 - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MaterialIntro_R_RStudio_Rlunch19.zip)
 
 **Academic year 2018-2019**
 * 4 juin 2019 - [Analyse de données] - **Common pitfalls in sentiment analysis** ([Martin Müller](https://people.epfl.ch/martin.muller), EPFL-Campus biotech) - [Visualiser la présentation](https://mar-muel.github.io/pitfalls_in_sentiment_analysis/index.html)
