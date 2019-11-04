@@ -8,9 +8,9 @@ title: Next R-lunches
   
 ## Next R-lunches
 
-* November **26**, 2019 - UniMail M5342 - **'caret' wrap: a healthy lunch for a data scientist** ([Iegor Rudnytskyi](https://irudnyts.github.io/about/), HEC Lausanne)
+* November **26**, 2019 - UniMail M4050 - **'caret' wrap: a healthy lunch for a data scientist** ([Iegor Rudnytskyi](https://irudnyts.github.io/about/), HEC Lausanne)
 
-* December 3, 2019 - UniMail M5342 - **Topics in machine learning - Piecewise linear regression with splines** ([Ben Meuleman](https://www.unige.ch/cisa/members/meuleman-ben/), Swiss Center for Affective Sciences)
+* December 3, 2019 - UniMail M1150 - **Topics in machine learning - Piecewise linear regression with splines** ([Ben Meuleman](https://www.unige.ch/cisa/members/meuleman-ben/), Swiss Center for Affective Sciences)
 
 * February **18**, 2020 - UniMail M2193 - **Alternative syntaxes with the tidyverse** ([Xavier Adam](https://exts.epfl.ch/who-we-are/team), EPFL-Campus biotech)
 
