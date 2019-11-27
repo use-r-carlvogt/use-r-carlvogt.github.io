@@ -8,8 +8,6 @@ title: Next R-lunches
   
 ## Next R-lunches
 
-* November **26**, 2019 - UniMail M4050 - **'caret' wrap: a healthy lunch for a data scientist** ([Iegor Rudnytskyi](https://irudnyts.github.io/about/), HEC Lausanne)
-
 * December 3, 2019 - UniMail M1150 - **Topics in machine learning - Piecewise linear regression with splines** ([Ben Meuleman](https://www.unige.ch/cisa/members/meuleman-ben/), Swiss Center for Affective Sciences)
 
 * February **18**, 2020 - UniMail M2193 - **Alternative syntaxes with the tidyverse** ([Xavier Adam](https://exts.epfl.ch/who-we-are/team), EPFL-Campus biotech)
@@ -22,6 +20,7 @@ title: Next R-lunches
 
 ## Past R-lunches
 
+* November 26, 2019 - **'caret' wrap: a healthy lunch for a data scientist** ([Iegor Rudnytskyi](https://irudnyts.github.io/about/), HEC Lausanne) - [Download the slides and the script](https://github.com/irudnyts/caret)
 * October 29, 2019 - **Striving to Demystify Bayesian Computational Modelling (in RStan)** ([Marco Wirthlin](https://www.linkedin.com/in/mwirthlin/), Freelance Data Scientist) - Download [the slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MWirthlin_UNIGE_R_Lunch_online_version.pdf) and [Marco's introductory paper to bayesian computation](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MWirthlin_IntroBayesianComputation_Wirthlin.pdf)
 * October 1st, 2019 - UniMail M4389 - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MaterialIntro_R_RStudio_Rlunch19.zip)
 
