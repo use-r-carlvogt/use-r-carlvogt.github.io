@@ -8,14 +8,13 @@ title: Next R-lunches
   
 ## Next R-lunches
 
-* March 3, 2020 - UniMail M2193 - **Mixed models** ([Marc-Olivier Boldi](https://www.linkedin.com/in/marc-olivier-boldi-7a39564/?originalSubdomain=ch), HEC Lausanne) - [Download the script](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Mars_MOBoldi_HandsOn.html) - [Download the data](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Mars_MOBoldi_data_lunchR.zip)
-
 * April 7, 2020 - UniMail M2193 - **Code sharing with github** ([Samuel Orso](https://www.unige.ch/gsem/fr/recherche/instituts/rcs/equipe/fellows/samuel-orso/), GSEM)
 
 * **Monday** May 4, 2020 - UniMail M2193 - **Web scraping with R** ([Roy Gava](https://www.alexandria.unisg.ch/persons/7745), University of St Gallen)
 
 ## Past R-lunches
 
+* March 3, 2020 - **Mixed models** ([Marc-Olivier Boldi](https://www.linkedin.com/in/marc-olivier-boldi-7a39564/?originalSubdomain=ch), HEC Lausanne) - [Download the script](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Mars_MOBoldi_HandsOn.html) - [Download the data](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Mars_MOBoldi_data_lunchR.zip)
 * February 18, 2020 - **Alternative syntaxes with the tidyverse** ([Xavier Adam](https://exts.epfl.ch/who-we-are/team), EPFL-Campus biotech)
 * December 3, 2019 - **Topics in machine learning - Piecewise linear regression with splines** ([Ben Meuleman](https://www.unige.ch/cisa/members/meuleman-ben/), Swiss Center for Affective Sciences) - [Download the slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019December_BMeuleman_Rlunch_Splines.pdf)
 * November 26, 2019 - **'caret' wrap: a healthy lunch for a data scientist** ([Iegor Rudnytskyi](https://irudnyts.github.io/about/), HEC Lausanne) - [Download the slides and the script](https://github.com/irudnyts/caret)
