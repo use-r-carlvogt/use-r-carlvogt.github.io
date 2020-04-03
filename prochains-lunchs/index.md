@@ -8,9 +8,9 @@ title: Next R-lunches
   
 ## Next R-lunches
 
-* April 7, 2020 - UniMail M2193 - **Code sharing with github** ([Samuel Orso](https://www.unige.ch/gsem/fr/recherche/instituts/rcs/equipe/fellows/samuel-orso/), GSEM)
+* CANCELLED ~~April 7, 2020 - UniMail M2193 - **Code sharing with github** ([Samuel Orso](https://www.unige.ch/gsem/fr/recherche/instituts/rcs/equipe/fellows/samuel-orso/), GSEM)~~
 
-* **Monday** May 4, 2020 - UniMail M2193 - **Web scraping with R** ([Roy Gava](https://www.alexandria.unisg.ch/persons/7745), University of St Gallen)
+* CANCELLED ~~**Monday** May 4, 2020 - UniMail M2193 - **Web scraping with R** ([Roy Gava](https://www.alexandria.unisg.ch/persons/7745), University of St Gallen)~~
 
 ## Past R-lunches
 
