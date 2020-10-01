@@ -16,8 +16,8 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**
 
 * **Monday** November 9, 2020 - UniMail (TBA) - **Web scraping with R** ([Roy Gava](https://www.alexandria.unisg.ch/persons/7745), University of St Gallen)
 
-<!-* December 1, 2020 - UniMail (TBA) - **Web scraping with R** ([Iegor Rudnystkyi]() HEC Lausanne and EPFL-extension school)
-->
+<!--* December 1, 2020 - UniMail (TBA) - **Web scraping with R** ([Iegor Rudnystkyi]() HEC Lausanne and EPFL-extension school)
+-->
 
 ## Past R-lunches
 
