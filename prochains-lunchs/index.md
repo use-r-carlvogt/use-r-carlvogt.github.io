@@ -12,7 +12,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**
   
 ## Next R-lunches
 
-* October 5, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/99024405323?pwd=VVpPYWJQS3NKZlRmelhCTzh1K05Jdz09) (passcode: rlunch2020) - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MaterialIntro_R_RStudio_Rlunch19.zip)
+* October 6, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/99024405323?pwd=VVpPYWJQS3NKZlRmelhCTzh1K05Jdz09) (passcode: rlunch2020) - **Introduction to R for beginners** ([Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019October_MaterialIntro_R_RStudio_Rlunch19.zip)
 
 * **Monday** November 9, 2020 - UniMail (TBA) - **Web scraping with R** ([Roy Gava](https://www.alexandria.unisg.ch/persons/7745), University of St Gallen)
 
