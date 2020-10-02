@@ -7,7 +7,7 @@ title: Next R-lunches
 **(Almost always) first Tuesday, each month, 12h15-13h30**
 
 **Due to the sanitary situation, the talks will be presented both online via Zoom
-and in presence at UniMail. If you intend to be present, you need to register
+and in person at UniMail. If you intend to be present, you need to register
 first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**
   
 ## Next R-lunches
