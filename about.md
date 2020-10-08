@@ -17,8 +17,8 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 
 **Organisation :**
 
-* Elise Tancoigne (collaboratrice Unige, Elise.Tancoigne@unige.ch) 
-* Xavier Adam (EPFL extension school, xavier.adam@epfl.ch)
+* Elise Dupuis (statisticienne HUG, elise.dupuis@unige.ch)
+* [Samuel Orso](https://www.samorso.ch/) (postdoc Unige, samuel.orso@unige.ch)
 
 **Pour rester informé.e.s :**
 
