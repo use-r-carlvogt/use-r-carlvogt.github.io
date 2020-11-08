@@ -6,15 +6,16 @@ title: Next R-lunches
 
 **(Almost always) first Tuesday, each month, 12h15-13h30**
 
-**Due to the sanitary situation, the talks will be presented both online via Zoom
+<!--**Due to the sanitary situation, the talks will be presented both online via Zoom
 and in person at UniMail. If you intend to be present, you need to register
-first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**
+first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
+**Due to the sanitary situation, the talks are fully online via Zoom.**
   
 ## Next R-lunches
 
 * October 6, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/99024405323?pwd=VVpPYWJQS3NKZlRmelhCTzh1K05Jdz09) - **Introduction to R for beginners** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/), [Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Octobre_RenaudCapderouFrossard_IntroR.zip)
 
-* **Monday** November 9, 2020 - UniMail M1160 - [Zoom](https://unige.zoom.us/j/92317617443?pwd=cEFSelZsdVpRaDVyanlNQk5XQXdwdz09) - **Web scraping with R** ([Roy Gava](http://roygava.com/), University of St. Gallen and University of Geneva)
+* **Monday** November 9, 2020 - UniMail M1160 - [Zoom](https://unige.zoom.us/j/92317617443?pwd=cEFSelZsdVpRaDVyanlNQk5XQXdwdz09) - **Web scraping with R** ([Roy Gava](http://roygava.com/), University of St. Gallen and University of Geneva) - Check the [slides](http://roygava.com/webscraping-lunch/)
 
 * December 1, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/97104023336?pwd=ZHI1Um8waThtcTgxRUhLRWtHWHduZz09) - **Deep learning with R** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School and HEC Lausanne)
 
