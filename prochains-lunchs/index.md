@@ -12,14 +12,16 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 **Due to the sanitary situation, the talks are fully online via Zoom.**
   
 ## Next R-lunches
+* February 2, 2021 - [Zoom](https://unige.zoom.us/j/92548162112?pwd=UHB6N2daMWJ3V3VWRnpOWVVNaUJnUT09) - **Working with Spatial Data with R: an introduction** ([Giulia Ruggeri](https://github.com/gruggeri), EPFL Extension School)
 
-* October 6, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/99024405323?pwd=VVpPYWJQS3NKZlRmelhCTzh1K05Jdz09) - **Introduction to R for beginners** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/), [Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Octobre_RenaudCapderouFrossard_IntroR.zip)
 
-* **Monday** November 9, 2020 - UniMail M1160 - [Zoom](https://unige.zoom.us/j/92317617443?pwd=cEFSelZsdVpRaDVyanlNQk5XQXdwdz09) - **Web scraping with R** ([Roy Gava](http://roygava.com/), University of St. Gallen and University of Geneva) - Check the [slides](http://roygava.com/webscraping-lunch/)
+## Past R-lunches
 
 * December 1, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/97104023336?pwd=ZHI1Um8waThtcTgxRUhLRWtHWHduZz09) - **Deep learning with R** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School and HEC Lausanne)
 
-## Past R-lunches
+* **Monday** November 9, 2020 - UniMail M1160 - [Zoom](https://unige.zoom.us/j/92317617443?pwd=cEFSelZsdVpRaDVyanlNQk5XQXdwdz09) - **Web scraping with R** ([Roy Gava](http://roygava.com/), University of St. Gallen and University of Geneva) - Check the [slides](http://roygava.com/webscraping-lunch/)
+
+* October 6, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/99024405323?pwd=VVpPYWJQS3NKZlRmelhCTzh1K05Jdz09) - **Introduction to R for beginners** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/), [Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Octobre_RenaudCapderouFrossard_IntroR.zip)
 
 * March 3, 2020 - **Mixed models** ([Marc-Olivier Boldi](https://www.linkedin.com/in/marc-olivier-boldi-7a39564/?originalSubdomain=ch), HEC Lausanne) - [Download the script](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Mars_MOBoldi_HandsOn.html) - [Download the data](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Mars_MOBoldi_data_lunchR.zip)
 * February 18, 2020 - **Alternative syntaxes with the tidyverse** ([Xavier Adam](https://exts.epfl.ch/who-we-are/team), EPFL-Campus biotech)
