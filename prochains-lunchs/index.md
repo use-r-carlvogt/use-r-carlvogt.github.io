@@ -12,7 +12,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 **Due to the sanitary situation, the talks are fully online via Zoom.**
   
 ## Next R-lunches
-* February 2, 2021 - [Zoom](https://unige.zoom.us/j/92548162112?pwd=UHB6N2daMWJ3V3VWRnpOWVVNaUJnUT09) - **Working with Spatial Data with R: an introduction** ([Giulia Ruggeri](https://github.com/gruggeri), EPFL Extension School)
+* February 2, 2021 - [Zoom](https://unige.zoom.us/j/92548162112?pwd=UHB6N2daMWJ3V3VWRnpOWVVNaUJnUT09) - **Working with Spatial Data with R: an introduction** ([Giulia Ruggeri](https://github.com/gruggeri), EPFL Extension School) - [Check R code and slides](https://github.com/gruggeri/r_lunch_feb2021)
 
 
 ## Past R-lunches
