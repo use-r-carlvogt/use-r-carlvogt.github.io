@@ -17,7 +17,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 
 ## Past R-lunches
 
-* December 1, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/97104023336?pwd=ZHI1Um8waThtcTgxRUhLRWtHWHduZz09) - **Deep learning with R** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School and HEC Lausanne)
+* December 1, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/97104023336?pwd=ZHI1Um8waThtcTgxRUhLRWtHWHduZz09) - **Deep learning with R** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School and HEC Lausanne) - Check the [slides](https://github.com/irudnyts/r2d2) and the [presentation recording](https://unige.zoom.us/rec/share/CdO68yhvN7iCAfgeuGX7hba4OllEEWAw_tJtJa6EQwSp5ETh-oQcYVRcUdfetndC.pnDX8JTdf9AECzq3)
 
 * **Monday** November 9, 2020 - UniMail M1160 - [Zoom](https://unige.zoom.us/j/92317617443?pwd=cEFSelZsdVpRaDVyanlNQk5XQXdwdz09) - **Web scraping with R** ([Roy Gava](http://roygava.com/), University of St. Gallen and University of Geneva) - Check the [slides](http://roygava.com/webscraping-lunch/)
 
