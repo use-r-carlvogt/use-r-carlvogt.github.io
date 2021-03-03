@@ -24,6 +24,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 
 * October 6, 2020 - UniMail MR160 - [Zoom](https://unige.zoom.us/j/99024405323?pwd=VVpPYWJQS3NKZlRmelhCTzh1K05Jdz09) - **Introduction to R for beginners** ([Olivier Renaud](https://www.unige.ch/fapse/mad/equipe/renaud/), [Sami Capderou](https://www.unige.ch/fapse/mad/equipe/sami-capderou/) et [Jaromil Frossard](https://www.unige.ch/fapse/mad/equipe/frossard/), Unige) - [Download data and documents (FR and EN)](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Octobre_RenaudCapderouFrossard_IntroR.zip)
 
+**Academic year 2019-2020**
 * March 3, 2020 - **Mixed models** ([Marc-Olivier Boldi](https://www.linkedin.com/in/marc-olivier-boldi-7a39564/?originalSubdomain=ch), HEC Lausanne) - [Download the script](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Mars_MOBoldi_HandsOn.html) - [Download the data](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2020Mars_MOBoldi_data_lunchR.zip)
 * February 18, 2020 - **Alternative syntaxes with the tidyverse** ([Xavier Adam](https://exts.epfl.ch/who-we-are/team), EPFL-Campus biotech)
 * December 3, 2019 - **Topics in machine learning - Piecewise linear regression with splines** ([Ben Meuleman](https://www.unige.ch/cisa/members/meuleman-ben/), Swiss Center for Affective Sciences) - [Download the slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2019December_BMeuleman_Rlunch_Splines.pdf)
