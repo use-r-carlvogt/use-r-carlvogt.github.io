@@ -12,7 +12,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 **Due to the sanitary situation, the talks are fully online via Zoom.**
   
 ## Next R-lunches
-* March 30, 2021 - [Zoom](https://unige.zoom.us/j/96253051411?pwd=dElvR0N0ZDlIYmJLdkhMN24vS3JKdz09) - Yann Sagon, HPC University of Geneva. More details to come.
+* April 13, 2021 - [Zoom](https://unige.zoom.us/j/96253051411?pwd=dElvR0N0ZDlIYmJLdkhMN24vS3JKdz09) - Yann Sagon, HPC University of Geneva. More details to come.
 
 
 ## Past R-lunches
