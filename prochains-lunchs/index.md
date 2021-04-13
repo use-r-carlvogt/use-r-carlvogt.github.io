@@ -12,7 +12,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 **Due to the sanitary situation, the talks are fully online via Zoom.**
   
 ## Next R-lunches
-* April 13, 2021 - [Zoom](https://unige.zoom.us/j/96253051411?pwd=dElvR0N0ZDlIYmJLdkhMN24vS3JKdz09) - Yann Sagon, HPC University of Geneva. More details to come.
+* April 13, 2021 - [Zoom](https://unige.zoom.us/j/96253051411?pwd=dElvR0N0ZDlIYmJLdkhMN24vS3JKdz09) - Yann Sagon, HPC University of Geneva - Check the [slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2021Avril_Cours_GetFamiliarWithBaobab.pptx)
 
 
 ## Past R-lunches
