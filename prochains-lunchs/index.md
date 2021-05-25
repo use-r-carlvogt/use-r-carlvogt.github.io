@@ -12,7 +12,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 **Due to the sanitary situation, the talks are fully online via Zoom.**
   
 ## Next R-lunches
-* May 25, 2021 - [Zoom](https://unige.zoom.us/j/95992195473?pwd=eWVEdmw0YUg4Q04vemgvS29VSitUZz09) - **Extending R with C++** - Lionel Voirol and Samuel Orso, University of Geneva - slides (coming soon) 
+* May 25, 2021 - [Zoom](https://unige.zoom.us/j/95992195473?pwd=eWVEdmw0YUg4Q04vemgvS29VSitUZz09) - **Extending R with C++** - Lionel Voirol and Samuel Orso, University of Geneva - [presentation recording](https://unige.zoom.us/rec/share/918RNyUbIbYD5MNNU8AqAnEJ74SsqvxpNf8m9R4s6_KP91HjmG_hDa5OQ9uGtCUw.NdNETpeXxS3WzDOk) 
 
 
 ## Past R-lunches
