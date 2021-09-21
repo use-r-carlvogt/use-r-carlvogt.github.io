@@ -12,10 +12,11 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 **Due to the sanitary situation, the talks are fully online via Zoom.**
   
 ## Next R-lunches
-* May 25, 2021 - [Zoom](https://unige.zoom.us/j/95992195473?pwd=eWVEdmw0YUg4Q04vemgvS29VSitUZz09) - **Extending R with C++** - Lionel Voirol and Samuel Orso, University of Geneva - [presentation recording](https://unige.zoom.us/rec/share/918RNyUbIbYD5MNNU8AqAnEJ74SsqvxpNf8m9R4s6_KP91HjmG_hDa5OQ9uGtCUw.NdNETpeXxS3WzDOk) 
-
+(to be announced soon)
 
 ## Past R-lunches
+* May 25, 2021 - [Zoom](https://unige.zoom.us/j/95992195473?pwd=eWVEdmw0YUg4Q04vemgvS29VSitUZz09) - **Extending R with C++** - Lionel Voirol and Samuel Orso, University of Geneva - [presentation recording](https://unige.zoom.us/rec/share/918RNyUbIbYD5MNNU8AqAnEJ74SsqvxpNf8m9R4s6_KP91HjmG_hDa5OQ9uGtCUw.NdNETpeXxS3WzDOk) 
+
 * April 13, 2021 - [Zoom](https://unige.zoom.us/j/96253051411?pwd=dElvR0N0ZDlIYmJLdkhMN24vS3JKdz09) - Yann Sagon, HPC University of Geneva - Check the [slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2021Avril_Cours_GetFamiliarWithBaobab.pptx) and the [presentation recording](https://unige.zoom.us/rec/share/96IB3RX1XGduE9F3Bq572QKq82a9JG0bkpLKj5b6d9cFLuXFH9kRGgsslc_-4cQa.s68-otW_M2Do28m8)
 
 * February 2, 2021 - [Zoom](https://unige.zoom.us/j/92548162112?pwd=UHB6N2daMWJ3V3VWRnpOWVVNaUJnUT09) - **Working with Spatial Data with R: an introduction** ([Giulia Ruggeri](https://github.com/gruggeri), EPFL Extension School) - Check [R code and slides](https://github.com/gruggeri/r_lunch_feb2021) and [presentation recording](https://unige.zoom.us/rec/share/BTFhNKQrFTvbJYJGd8jL2l8Bga2nRkcPrnnk6z6v8I0iEpC7ll7VlHv1VhIAVvr9.eH8E1E0Ncf_LiMyI)
