@@ -13,13 +13,13 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 ## Next R-lunches
 * Tuesday, 28 February, 2023 - 66 Boulevard Carl-Vogt salle 2 - **Using vim R** (Fabrice Hategekimana, University of Geneva) - **exceptionally between 12:15-13:00**.
 
-* Tuesday, 7 March, 2023 - UniMail M3220 - **Easily create interactive charts in R by leveraging the ‘Echarts Javascript’ library** - (Jean-Philippe Coene, Opifex).
+* Tuesday, 7 March, 2023 - UniMail M3220 - **Easily create interactive charts in R by leveraging the ‘Echarts Javascript’ library** - ([Jean-Philippe Coene](https://john-coene.com/), Opifex).
 
-* Tuesday, 4 April, 2023 - UniMail M3220 - **How to freely and easily host your shiny application in 10 minutes** (David Munoz, University of Geneva).
+* Tuesday, 4 April, 2023 - UniMail M3220 - **How to freely and easily host your shiny application in 10 minutes** ([David Munoz](https://david-munoztord.com/), University of Geneva).
 
-* Tuesday, 2 May, 2023 - [Zoom](https://unige.zoom.us/j/68920636492?pwd=ZmlaNnhvVTRaQm9VdzEvUVVCNHdVQT09) - **Unravelling the power of Lists in R: The creation of the CORESIDENCE Database** (Juan Galeano, Centre for Demographic Studies, Barcelona). 
+* Tuesday, 2 May, 2023 - [Zoom](https://unige.zoom.us/j/68920636492?pwd=ZmlaNnhvVTRaQm9VdzEvUVVCNHdVQT09) - **Unravelling the power of Lists in R: The creation of the CORESIDENCE Database** ([Juan Galeano](https://drive.google.com/file/d/1X4UVu9NyE9rozbZ_jrmOaaI63KPE5Uwv/view?usp=sharing), Centre for Demographic Studies, Barcelona). 
 
-* Tuesday, 4 June, 2023 - UniMail M4050 - **{hayalbaz} scraping dynamic web page without dependencies in R** (Vestin Hategekimana, University of Geneva). 
+* Tuesday, 4 June, 2023 - UniMail M4050 - **{hayalbaz} scraping dynamic web page without dependencies in R** ([Vestin Hategekimana](https://vestin-hategekimana.netlify.app/), University of Geneva). 
 
 ## Past R-lunches
 * December 14, 2021 - [Zoom](https://unige.zoom.us/j/66111435520?pwd=Q0xtUTBUNFdBWUtkaVN2N1FuOXJsQT09) - **Mother's Little Helper: git/GitHub** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School 
