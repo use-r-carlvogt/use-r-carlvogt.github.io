@@ -17,8 +17,8 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 
 **Organisation :**
 
-* Elise Dupuis (statisticienne HUG, elise.dupuis@unige.ch)
 * [Samuel Orso](https://www.samorso.ch/) (postdoc Unige, samuel.orso@unige.ch)
+* Vestin Hategekimana (doctorant Unige, vestin.hategekimana@unige.ch)
 
 **Pour rester informé.e.s :**
 

@@ -9,13 +9,22 @@ title: Next R-lunches
 <!--**Due to the sanitary situation, the talks will be presented both online via Zoom
 and in person at UniMail. If you intend to be present, you need to register
 first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
-**Due to the sanitary situation, the talks are fully online via Zoom.**
   
 ## Next R-lunches
-* December 14, 2021 - [Zoom](https://unige.zoom.us/j/66111435520?pwd=Q0xtUTBUNFdBWUtkaVN2N1FuOXJsQT09) - **Mother's Little Helper: git/GitHub** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School 
-<!--(to be announced soon)-->
+* Tuesday, 28 February, 2023 - 66 Boulevard Carl-Vogt salle 2 - **Using vim R** (Fabrice Hategekimana, University of Geneva) - **exceptionally between 12:15-13:00**.
+
+* Tuesday, 7 March, 2023 - UniMail M3220 - **Easily create interactive charts in R by leveraging the ‘Echarts Javascript’ library** - (Jean-Philippe Coene, Opifex).
+
+* Tuesday, 4 April, 2023 - UniMail M3220 - **How to freely and easily host your shiny application in 10 minutes** (David Munoz, University of Geneva).
+
+* Tuesday, 2 May, 2023 - [Zoom](https://unige.zoom.us/j/68920636492?pwd=ZmlaNnhvVTRaQm9VdzEvUVVCNHdVQT09) - **Unravelling the power of Lists in R: The creation of the CORESIDENCE Database** (Juan Galeano, Centre for Demographic Studies, Barcelona). 
+
+* Tuesday, 4 June, 2023 - UniMail M4050 - **{hayalbaz} scraping dynamic web page without dependencies in R** (Vestin Hategekimana, University of Geneva). 
 
 ## Past R-lunches
+* December 14, 2021 - [Zoom](https://unige.zoom.us/j/66111435520?pwd=Q0xtUTBUNFdBWUtkaVN2N1FuOXJsQT09) - **Mother's Little Helper: git/GitHub** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School 
+
+**Academic year 2020-2021**
 * May 25, 2021 - [Zoom](https://unige.zoom.us/j/95992195473?pwd=eWVEdmw0YUg4Q04vemgvS29VSitUZz09) - **Extending R with C++** - Lionel Voirol and Samuel Orso, University of Geneva - [presentation recording](https://unige.zoom.us/rec/share/918RNyUbIbYD5MNNU8AqAnEJ74SsqvxpNf8m9R4s6_KP91HjmG_hDa5OQ9uGtCUw.NdNETpeXxS3WzDOk) 
 
 * April 13, 2021 - [Zoom](https://unige.zoom.us/j/96253051411?pwd=dElvR0N0ZDlIYmJLdkhMN24vS3JKdz09) - Yann Sagon, HPC University of Geneva - Check the [slides](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2021Avril_Cours_GetFamiliarWithBaobab.pptx) and the [presentation recording](https://unige.zoom.us/rec/share/96IB3RX1XGduE9F3Bq572QKq82a9JG0bkpLKj5b6d9cFLuXFH9kRGgsslc_-4cQa.s68-otW_M2Do28m8)
