@@ -19,7 +19,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 
 * Tuesday, 2 May, 2023 - [Zoom](https://unige.zoom.us/j/68920636492?pwd=ZmlaNnhvVTRaQm9VdzEvUVVCNHdVQT09) - **Unravelling the power of Lists in R: The creation of the CORESIDENCE Database** ([Juan Galeano](https://drive.google.com/file/d/1X4UVu9NyE9rozbZ_jrmOaaI63KPE5Uwv/view?usp=sharing), Centre for Demographic Studies, Barcelona). 
 
-* Tuesday, 4 June, 2023 - UniMail M4050 - **{hayalbaz} scraping dynamic web page without dependencies in R** ([Vestin Hategekimana](https://vestin-hategekimana.netlify.app/), University of Geneva). 
+* Tuesday, 6 June, 2023 - UniMail M4050 - **{hayalbaz} scraping dynamic web page without dependencies in R** ([Vestin Hategekimana](https://vestin-hategekimana.netlify.app/), University of Geneva). 
 
 ## Past R-lunches
 * December 14, 2021 - [Zoom](https://unige.zoom.us/j/66111435520?pwd=Q0xtUTBUNFdBWUtkaVN2N1FuOXJsQT09) - **Mother's Little Helper: git/GitHub** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School 
