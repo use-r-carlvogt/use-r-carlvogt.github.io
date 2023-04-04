@@ -16,7 +16,7 @@ first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
 * Tuesday, 6 June, 2023 - [Zoom](https://unige.zoom.us/j/68920636492?pwd=ZmlaNnhvVTRaQm9VdzEvUVVCNHdVQT09) - **Unravelling the power of Lists in R: The creation of the CORESIDENCE Database** ([Juan Galeano](https://drive.google.com/file/d/1X4UVu9NyE9rozbZ_jrmOaaI63KPE5Uwv/view?usp=sharing), Centre for Demographic Studies, Barcelona). 
 
 ## Past R-lunches
-* Tuesday, 4 April, 2023 - UniMail M3220 - **How to freely and easily host your shiny application in 10 minutes** ([David Munoz](https://david-munoztord.com/), University of Geneva). Slides are available [here](https://we-data-ch.github.io/Web_Deployment_With_R/R-Lunch).
+* Tuesday, 4 April, 2023 - UniMail M3220 - **How to freely and easily host your shiny application in 10 minutes** ([David Munoz](https://david-munoztord.com/), University of Geneva). Slides are available [here](https://we-data-ch.github.io/Web_Deployment_With_R/R-Lunch). Presentation recording is [here](https://unige.zoom.us/rec/share/bmPWK9YqdK9FI74DtVnhEgaca8isNWNkjwxjVP2TeRJ_TnRsRp3HpRb5DFuYQZXO.hBVyShgZ9SLyqESP)
 
 * Tuesday, 7 March, 2023 - UniMail M3220 - **Easily create interactive charts in R by leveraging the ‘Echarts Javascript’ library** - ([Jean-Philippe Coene](https://john-coene.com/), Opifex). Presentation recording is [here](https://unige.zoom.us/rec/share/4Udk3_8-brGTc9EI5icY3wks4XjaSUC5c7DqpgRiAaD3y5CJZHxgi_Ep2L2g7-pd.J-w8Q7QDb3qECWCr).
 
