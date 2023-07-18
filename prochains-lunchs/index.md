@@ -11,17 +11,21 @@ and in person at UniMail. If you intend to be present, you need to register
 first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
   
 ## Next R-lunches
-* Tuesday, 2 May, 2023 - UniMail M3220 - **{hayalbaz} scraping dynamic web page without dependencies in R** ([Vestin Hategekimana](https://vestin-hategekimana.netlify.app/), University of Geneva). 
-
-* Tuesday, 6 June, 2023 - [Zoom](https://unige.zoom.us/j/68920636492?pwd=ZmlaNnhvVTRaQm9VdzEvUVVCNHdVQT09) - **Unravelling the power of Lists in R: The creation of the CORESIDENCE Database** ([Juan Galeano](https://drive.google.com/file/d/1X4UVu9NyE9rozbZ_jrmOaaI63KPE5Uwv/view?usp=sharing), Centre for Demographic Studies, Barcelona). 
+New R-lunch will be announced by the beginning of fall semester in September.
 
 ## Past R-lunches
+**Academic year 2022-2023**
+* Tuesday, 6 June, 2023 - [Zoom](https://unige.zoom.us/j/68920636492?pwd=ZmlaNnhvVTRaQm9VdzEvUVVCNHdVQT09) - **Unravelling the power of Lists in R: The creation of the CORESIDENCE Database** ([Juan Galeano](https://drive.google.com/file/d/1X4UVu9NyE9rozbZ_jrmOaaI63KPE5Uwv/view?usp=sharing), Centre for Demographic Studies, Barcelona). 
+
+* Tuesday, 2 May, 2023 - UniMail M3220 - **{hayalbaz} scraping dynamic web page without dependencies in R** ([Vestin Hategekimana](https://vestin-hategekimana.netlify.app/), University of Geneva). 
+
 * Tuesday, 4 April, 2023 - UniMail M3220 - **How to freely and easily host your shiny application in 10 minutes** ([David Munoz](https://david-munoztord.com/), University of Geneva). Slides are available [here](https://we-data-ch.github.io/Web_Deployment_With_R/R-Lunch). Presentation recording is [here](https://unige.zoom.us/rec/share/bmPWK9YqdK9FI74DtVnhEgaca8isNWNkjwxjVP2TeRJ_TnRsRp3HpRb5DFuYQZXO.hBVyShgZ9SLyqESP)
 
 * Tuesday, 7 March, 2023 - UniMail M3220 - **Easily create interactive charts in R by leveraging the ‘Echarts Javascript’ library** - ([Jean-Philippe Coene](https://john-coene.com/), Opifex). Presentation recording is [here](https://unige.zoom.us/rec/share/4Udk3_8-brGTc9EI5icY3wks4XjaSUC5c7DqpgRiAaD3y5CJZHxgi_Ep2L2g7-pd.J-w8Q7QDb3qECWCr).
 
 * Tuesday, 28 February, 2023 - 66 Boulevard Carl-Vogt salle 2 - **Using vim R** (Fabrice Hategekimana, University of Geneva) - **exceptionally between 12:15-13:00**.
 
+**Academic year 2021-2022**
 * December 14, 2021 - [Zoom](https://unige.zoom.us/j/66111435520?pwd=Q0xtUTBUNFdBWUtkaVN2N1FuOXJsQT09) - **Mother's Little Helper: git/GitHub** ([Iegor Rudnytskyi](https://irudnyts.github.io/), EPFL Extension School 
 
 **Academic year 2020-2021**
