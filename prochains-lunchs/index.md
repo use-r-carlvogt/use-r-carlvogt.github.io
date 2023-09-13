@@ -6,12 +6,10 @@ title: Next R-lunches
 
 **(Almost always) first Tuesday, each month, 12h15-13h30**
 
-<!--**Due to the sanitary situation, the talks will be presented both online via Zoom
-and in person at UniMail. If you intend to be present, you need to register
-first [here](https://shiny.samorso.ch/rlunch/) and wear a mask.**-->
-  
 ## Next R-lunches
-New R-lunch will be announced by the beginning of fall semester in September.
+* Tuesday, 3 October, 2023 - UniMail M4389 - _title TBA_, Ben Meulman
+* Tuesday, 7 November, 2023 - UniMail M4389 - _title TBA_, Didier Ruedin
+* Tuesday, 5 December, 2023 - UniMail M4389 - _title TBA_, Alice Lannantuoni
 
 ## Past R-lunches
 **Academic year 2022-2023**

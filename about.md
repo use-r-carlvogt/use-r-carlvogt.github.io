@@ -18,7 +18,7 @@ La langue de présentation (français ou anglais) et de discussion sera adaptée
 **Organisation :**
 
 * [Samuel Orso](https://www.samorso.ch/) (postdoc Unige, samuel.orso@unige.ch)
-* Vestin Hategekimana (doctorant Unige, vestin.hategekimana@unige.ch)
+* [Vestin Hategekimana](https://vestin-hategekimana.netlify.app/) (doctorant Unige, vestin.hategekimana@unige.ch)
 
 **Pour rester informé.e.s :**
 
