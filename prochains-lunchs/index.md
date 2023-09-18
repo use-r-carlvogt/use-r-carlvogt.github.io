@@ -7,8 +7,8 @@ title: Next R-lunches
 **(Almost always) first Tuesday, each month, 12h15-13h30**
 
 ## Next R-lunches
-* Tuesday, 3 October, 2023 - UniMail M4389 - _title TBA_, Ben Meulman
-* Tuesday, 7 November, 2023 - UniMail M4389 - _title TBA_, Didier Ruedin
+* Tuesday, 3 October, 2023 - UniMail M4389 - **Chi-square analysis for rater agreement, confusion matrices, and paired categorical data** ([Ben Meulman](https://www.unige.ch/cisa/index.php?cID=3542), University of Geneva).
+* Tuesday, 7 November, 2023 - UniMail M4389 - **Measuring agreement, consensus, and polarization in ordinal data using R** ([Didier Ruedin](https://druedin.com/), University of Neuchâtel).
 * Tuesday, 5 December, 2023 - UniMail M4389 - _title TBA_, Alice Lannantuoni
 
 ## Past R-lunches
