@@ -7,11 +7,13 @@ title: Next R-lunches
 **(Almost always) first Tuesday, each month, 12h15-13h30**
 
 ## Next R-lunches
-* Tuesday, 3 October, 2023 - UniMail M4389 - **Chi-square analysis for rater agreement, confusion matrices, and paired categorical data** ([Ben Meuleman](https://www.unige.ch/cisa/index.php?cID=3542), University of Geneva).
 * Tuesday, 7 November, 2023 - UniMail M4389 - **Measuring agreement, consensus, and polarization in ordinal data using R** ([Didier Ruedin](https://druedin.com/), University of Neuchâtel).
 * Tuesday, 5 December, 2023 - UniMail M4389 - **Intro to Text Analysis in R: Examples from Social Science Research on International Organizations, Cooperation, and Development** ([Alice Lannantuoni](https://www.aliceiannantuoni.com/), University of Geneva).
 
 ## Past R-lunches
+**Academic year 2023-2024**
+* Tuesday, 3 October, 2023 - UniMail M4389 - **Chi-square analysis for rater agreement, confusion matrices, and paired categorical data** ([Ben Meuleman](https://www.unige.ch/cisa/index.php?cID=3542), University of Geneva). Slides are available [here](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2023Octobre_BM_Rlunch_paired_categorical.pptx), code [here](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2023Octobre_square_tests.r) and recording [here](https://unige.zoom.us/rec/share/lqL9wQ85hPwg64OMXy3Z3h4tE0HSLw9VUlHYbvDWPEmj840C3ViNTCY1n9h0MtFa.TQDXvOeQXkaVr6YX).
+
 **Academic year 2022-2023**
 * Tuesday, 6 June, 2023 - [Zoom](https://unige.zoom.us/j/68920636492?pwd=ZmlaNnhvVTRaQm9VdzEvUVVCNHdVQT09) - **Unravelling the power of Lists in R: The creation of the CORESIDENCE Database** ([Juan Galeano](https://drive.google.com/file/d/1X4UVu9NyE9rozbZ_jrmOaaI63KPE5Uwv/view?usp=sharing), Centre for Demographic Studies, Barcelona). 
 
