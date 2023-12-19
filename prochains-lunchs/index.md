@@ -7,8 +7,8 @@ title: Next R-lunches
 **(Almost always) first Tuesday, each month, 12h15-13h30**
 
 ## Next R-lunches
-* Tuesday, 5 December, 2023 - UniMail M4389 - **Intro to Text Analysis in R: Examples from Social Science Research on International Organizations, Cooperation, and Development** ([Alice Iannantuoni](https://www.aliceiannantuoni.com/), University of Geneva).
-* Tuesday, 5 March, 2024 - UniMail (room TBC) - Daniel Flores Agreda, EPFL Extension School.
+* Tuesday, 5 March, 2024 - UniMail (room TBC) - **Quarto for Academics** ([Daniel Flores Agreda](https://www.linkedin.com/in/daniel-flores-agreda-680a9a109/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj8KVAq2fT3uHgFnEq7XT%2FQ%3D%3D), EPFL Extension School.
+* **Canceled** (to be rescheduled) Tuesday, 5 December, 2023 - UniMail M4389 - **Intro to Text Analysis in R: Examples from Social Science Research on International Organizations, Cooperation, and Development** ([Alice Iannantuoni](https://www.aliceiannantuoni.com/), University of Geneva).
 
 ## Past R-lunches
 **Academic year 2023-2024**
