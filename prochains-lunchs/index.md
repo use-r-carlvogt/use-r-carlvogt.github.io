@@ -7,7 +7,7 @@ title: Next R-lunches
 **(Almost always) first Tuesday, each month, 12h15-13h30**
 
 ## Next R-lunches
-* Tuesday, 5 March, 2024 - UniMail M5393 - **Quarto for Academics** ([Daniel Flores Agreda](https://www.linkedin.com/in/daniel-flores-agreda-680a9a109/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj8KVAq2fT3uHgFnEq7XT%2FQ%3D%3D), EPFL Extension School). **exceptionally between 12:15-13:00**.
+* Tuesday, 5 March, 2024 - UniMail M5393 - **Quarto for Academics** ([Daniel Flores Agreda](https://www.linkedin.com/in/daniel-flores-agreda-680a9a109/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj8KVAq2fT3uHgFnEq7XT%2FQ%3D%3D), EPFL Extension School). **exceptionally between 12:15-13:00**. Presentation and examples are available [here](https://github.com/dfloresag/lunch-quarto-for-academics).
 * Tuesday, 26 March, 2024 - UniMail M5393 - **How to Create Interactive Maps with R: Switzerland Use Cases** ([Felix Luginbuhl](https://felixluginbuhl.com/), Data Scientist).
 * Tuesday, 7 May, 2024 - UniMail M5393 - **Intro to Text Analysis in R: Examples from Social Science Research on International Organizations, Cooperation, and Development** ([Alice Iannantuoni](https://www.aliceiannantuoni.com/), University of Geneva).
 
