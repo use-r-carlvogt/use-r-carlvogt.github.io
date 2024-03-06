@@ -6,13 +6,15 @@ title: Next R-lunches
 
 **(Almost always) first Tuesday, each month, 12h15-13h30**
 
+Videos since fall semester 2023 meetings are available on YouTube in the following [playlist](https://www.youtube.com/playlist?list=PLSYhtt87oGAJR6bOtjz5q8CCSPEDEQbGu).
+
 ## Next R-lunches
-* Tuesday, 5 March, 2024 - UniMail M5393 - **Quarto for Academics** ([Daniel Flores Agreda](https://www.linkedin.com/in/daniel-flores-agreda-680a9a109/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj8KVAq2fT3uHgFnEq7XT%2FQ%3D%3D), EPFL Extension School). **exceptionally between 12:15-13:00**. Presentation and examples are available [here](https://github.com/dfloresag/lunch-quarto-for-academics).
 * Tuesday, 26 March, 2024 - UniMail M5393 - **How to Create Interactive Maps with R: Switzerland Use Cases** ([Felix Luginbuhl](https://felixluginbuhl.com/), Data Scientist).
 * Tuesday, 7 May, 2024 - UniMail M5393 - **Intro to Text Analysis in R: Examples from Social Science Research on International Organizations, Cooperation, and Development** ([Alice Iannantuoni](https://www.aliceiannantuoni.com/), University of Geneva).
 
 ## Past R-lunches
 **Academic year 2023-2024**
+* Tuesday, 5 March, 2024 - UniMail M5393 - **Quarto for Academics** ([Daniel Flores Agreda](https://www.linkedin.com/in/daniel-flores-agreda-680a9a109/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bj8KVAq2fT3uHgFnEq7XT%2FQ%3D%3D), EPFL Extension School). **exceptionally between 12:15-13:00**. Presentation and examples are available [here](https://github.com/dfloresag/lunch-quarto-for-academics).
 * Tuesday, 7 November, 2023 - UniMail M4389 - **Measuring agreement, consensus, and polarization in ordinal data using R** ([Didier Ruedin](https://druedin.com/), University of Neuchâtel). The recording is available [here](https://unige.zoom.us/rec/share/gkg1GdETGSdalxrgwBUOe3zCrbSOwfQANs_gfYnhL2leZNDq4hOgtOqqNL0zx9PM.sAVBNGt69NIXAhRh).
 * Tuesday, 3 October, 2023 - UniMail M4389 - **Chi-square analysis for rater agreement, confusion matrices, and paired categorical data** ([Ben Meuleman](https://www.unige.ch/cisa/index.php?cID=3542), University of Geneva). Slides are available [here](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2023Octobre_BM_Rlunch_paired_categorical.pptx), code [here](https://github.com/use-r-carlvogt/use-r-carlvogt.github.io/blob/master/PDFs/2023Octobre_square_tests.r) and recording [here](https://unige.zoom.us/rec/share/lqL9wQ85hPwg64OMXy3Z3h4tE0HSLw9VUlHYbvDWPEmj840C3ViNTCY1n9h0MtFa.TQDXvOeQXkaVr6YX).
 
