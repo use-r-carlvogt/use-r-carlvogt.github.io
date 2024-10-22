@@ -9,7 +9,9 @@ title: Next R-lunches
 Videos since fall semester 2023 meetings are available on YouTube in the following [playlist](https://www.youtube.com/playlist?list=PLSYhtt87oGAJR6bOtjz5q8CCSPEDEQbGu).
 
 ## Next R-lunches
-- Next R-lunch will be announced soon. 
+**Academic year 2024-2025**
+* Tuesday, 12 November, 2024 - UniMail M2193 - **R workflow** ([Vestin Hategekimana](https://vestin-hategekimana.netlify.app/), University of Geneva).
+* Tuesday, 10 December, 2024 - UniMail M5393 - **Vapour a type system for R** ([Jean-Philippe Coene](https://john-coene.com/), Opifex).
 
 ## Past R-lunches
 **Academic year 2023-2024**
