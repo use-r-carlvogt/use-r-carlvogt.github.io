@@ -10,10 +10,12 @@ Videos since fall semester 2023 meetings are available on YouTube in the followi
 
 ## Next R-lunches
 **Academic year 2024-2025**
-* Tuesday, 12 November, 2024 - UniMail M2193 - **R workflow** ([Vestin Hategekimana](https://vestin-hategekimana.netlify.app/), University of Geneva).
 * Tuesday, 10 December, 2024 - UniMail M5393 - **Vapour a type system for R** ([Jean-Philippe Coene](https://john-coene.com/), Opifex).
 
 ## Past R-lunches
+**Academic year 2024-2025**
+* Tuesday, 12 November, 2024 - UniMail M2193 - **R workflow** ([Vestin Hategekimana](https://vestin-hategekimana.netlify.app/), University of Geneva). Slides are available [here](https://we-data-ch.github.io/worshop_2023_09_04/) and the recording is [here](https://unige.zoom.us/rec/share/eFB7xH7ZL3EjMMswcFydmHWD8j7ZkrNEikWVIJfhXWNcFXv47vL_Go-__NxtK36m.-f1WtBSfA6LUL2W6) (code is tBjl1Bs%).
+
 **Academic year 2023-2024**
 * Tuesday, 7 May, 2024 - UniMail M5393 - **Intro to Text Analysis in R: Examples from Social Science Research on International Organizations, Cooperation, and Development** ([Alice Iannantuoni](https://www.aliceiannantuoni.com/), University of Geneva).
 * Tuesday, 26 March, 2024 - UniMail M5393 - **How to Create Interactive Maps with R: Switzerland Use Cases** ([Felix Luginbuhl](https://felixluginbuhl.com/), Data Scientist).
