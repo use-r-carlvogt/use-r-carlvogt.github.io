@@ -10,6 +10,8 @@ Videos since fall semester 2023 meetings are available on YouTube in the followi
 
 ## Next R-lunches
 **Academic year 2024-2025**
+* Tuesday, 4 March, 2025 - Maraîchers 203 - **TypR a type system for R**  (Fabrice Hategekimana, University of Geneva). 
+* Tuesday, 1 April, 2025 - Maraîchers 203 - **How to use MUI material, the most popular React framework, with R Shiny** ([Felix Luginbuhl](https://felixluginbuhl.com/), Data Scientist)
 
 ## Past R-lunches
 **Academic year 2024-2025**
