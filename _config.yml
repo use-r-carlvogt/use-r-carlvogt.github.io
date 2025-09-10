@@ -27,3 +27,13 @@ github:
 
 # Google services
 google_analytics: UA-94119874-1
+
+# _config.yml
+warning:
+  enabled: true                # true/false pour activer
+  message: "Nouveau site en ligne — visitez https://we-data-ch.github.io/r_lunches_website/"
+  url: "https://we-data-ch.github.io/r_lunches_website/"
+  button_text: "Visiter"
+  background: "#ffcc00"        # couleur de fond
+  text_color: "#000000"        # couleur du texte
+  dismiss_days: 7              # garder la fermeture pendant X jours
